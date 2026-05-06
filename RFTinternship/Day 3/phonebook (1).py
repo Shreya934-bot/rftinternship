@@ -88,8 +88,8 @@ while True:
         display_contacts()
 
     elif choice == "5":
-        print("👋 Exiting Phonebook...")
+        print("Exiting Phonebook...")
         break
 
     else:
-        print("⚠️ Invalid choice. Try again.")
+        print("Invalid choice. Try again.")
