@@ -2,17 +2,20 @@
 
 This repository contains my daily work for the RFT Internship at GOW AI Academy.
 
-##  Progress
+## 📅 Progress
 
-| Day   | Task                           |
-| ----- | ------------------------------ |
+| Day | Task |
+|-----|------|
 | Day 1 | Data Cleaner (List Processing) |
-| Day 2 | Student Score Analyzer         |
+| Day 2 | Student Score Analyzer |
+| Day 3 | Dictionary-Based Phonebook |
 
-## Structure
+---
+
+## 📂 Structure
 
 RFTInternship/
-<<<<<<< HEAD
+│
 ├── Day1/
 │   ├── data_cleaner.ipynb
 │   ├── data_cleaner.py
@@ -22,8 +25,12 @@ RFTInternship/
 │   ├── score_analyzer.ipynb
 │   ├── score_analyzer.py
 │   └── README.md
+│
+├── Day3/
+│   ├── phonebook.ipynb
+│   ├── phonebook.py
+│   └── README.md
 
 ---
 
-Consistently updating this repository as part of my internship journey 
-
+🚀 Consistently building and uploading daily Python internship tasks focused on problem-solving and real-world programming concepts.
