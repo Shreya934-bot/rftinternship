@@ -10,6 +10,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 2 | Student Score Analyzer |
 | Day 3 | Dictionary-Based Phonebook |
 | Day 4 | Simple Log Analyzer |
+| Day 5 | Basic CSV Reader (without pandas) |
 
 ---
 
@@ -35,6 +36,12 @@ RFTInternship/
 ├── Day4/
 │   ├── log_analyzer.ipynb
 │   ├── log_analyzer.py
+│   └── README.md
+|
+├── Day5/
+│   ├── basic_csv_reader.ipynb
+│   ├── basic_csv_reader.py
+│   ├── student_data.csv
 │   └── README.md
 
 ---
