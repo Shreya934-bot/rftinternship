@@ -12,6 +12,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 4 | Simple Log Analyzer |
 | Day 5 | Basic CSV Reader (without pandas) |
 | Day 6 | Sales Data Analyzer |
+| Day 7 | Student Performance Analyzer |
 ---
 
 ## 📂 Structure
@@ -48,6 +49,12 @@ RFTInternship/
 │   ├── sales_data.csv
 │   ├── sales_analyzer.ipynb
 │   ├── sales_analyzer.py
+│   └── README.md
+|
+├── Day7/
+│   ├── student_performance.csv
+│   ├── student_dashboard.ipynb
+│   ├── student_dashboard.py
 │   └── README.md
 
 ---
