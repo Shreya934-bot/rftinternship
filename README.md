@@ -13,6 +13,8 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 5 | Basic CSV Reader (without pandas) |
 | Day 6 | Sales Data Analyzer |
 | Day 7 | Student Performance Analyzer |
+| Day 8 | Employee Salary Insights |
+
 ---
 
 ## 📂 Structure
@@ -55,6 +57,12 @@ RFTInternship/
 │   ├── student_performance.csv
 │   ├── student_dashboard.ipynb
 │   ├── student_dashboard.py
+│   └── README.md
+|
+├── Day8/
+│   ├── employee_salary.csv
+│   ├── salary_insights.ipynb
+│   ├── salary_insights.py
 │   └── README.md
 
 ---
