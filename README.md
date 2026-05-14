@@ -14,6 +14,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 6 | Sales Data Analyzer |
 | Day 7 | Student Performance Analyzer |
 | Day 8 | Employee Salary Insights |
+| Day 9 | Data Filtering Tool |
 
 ---
 
@@ -63,6 +64,13 @@ RFTInternship/
 │   ├── employee_salary.csv
 │   ├── salary_insights.ipynb
 │   ├── salary_insights.py
+│   └── README.md
+|
+├── Day9/
+│   ├── employee_data.csv
+│   ├── data_filtering_tool.ipynb
+│   ├── data_filtering_tool.py
+│   ├── filtered_data.csv
 │   └── README.md
 
 ---
