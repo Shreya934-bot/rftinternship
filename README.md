@@ -16,7 +16,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 8 | Employee Salary Insights |
 | Day 9 | Data Filtering Tool |
 | Day 10 | Log Analyzer |
-
+| Day 11 | Sales Trend Visualization |
 ---
 
 ## 📂 Structure
@@ -77,6 +77,12 @@ RFTInternship/
 ├── Day10/
 │   ├── simple_log_analyzer.ipynb
 │   ├── simple_log_analyzer.py
+│   └── README.md
+|
+├── Day11/
+│   ├── sales_trend_visualization.ipynb
+│   ├── sales_trend_visualization.py
+│   ├── sales_trend_chart.png
 │   └── README.md
 
 ---
