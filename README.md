@@ -17,6 +17,8 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 9 | Data Filtering Tool |
 | Day 10 | Log Analyzer |
 | Day 11 | Sales Trend Visualization |
+| Day 12 | Student Perfromance Dashboard |
+
 ---
 
 ## 📂 Structure
@@ -83,6 +85,12 @@ RFTInternship/
 │   ├── sales_trend_visualization.ipynb
 │   ├── sales_trend_visualization.py
 │   ├── sales_trend_chart.png
+│   └── README.md
+|
+├── Day12/
+│   ├── student_performance_dashboard.ipynb
+│   ├── student_performance_dashboard.py
+│   ├── student_performance_chart.png
 │   └── README.md
 
 ---
