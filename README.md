@@ -18,7 +18,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 10 | Log Analyzer |
 | Day 11 | Sales Trend Visualization |
 | Day 12 | Student Perfromance Dashboard |
-
+| Day 13 | Distribution Anaylsis using Seaborn |
 ---
 
 ## 📂 Structure
@@ -91,6 +91,12 @@ RFTInternship/
 │   ├── student_performance_dashboard.ipynb
 │   ├── student_performance_dashboard.py
 │   ├── student_performance_chart.png
+│   └── README.md
+|
+├── Day13/
+│   ├── distribution_analysis.ipynb
+│   ├── distribution_analysis.py
+│   ├── distribution_plot.png
 │   └── README.md
 
 ---
