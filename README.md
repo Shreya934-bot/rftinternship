@@ -19,6 +19,8 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 11 | Sales Trend Visualization |
 | Day 12 | Student Perfromance Dashboard |
 | Day 13 | Distribution Anaylsis using Seaborn |
+| Day 14 | Category Breakdown (pie chart) |
+
 ---
 
 ## 📂 Structure
@@ -98,7 +100,13 @@ RFTInternship/
 │   ├── distribution_analysis.py
 │   ├── distribution_plot.png
 │   └── README.md
-
+|
+├── Day14/
+│   ├── category_breakdown.ipynb
+│   ├── category_breakdown.py
+│   ├── pie_chart.png
+│   └── README.md
+|
 ---
 
 🚀 Consistently building and uploading daily Python internship tasks focused on problem-solving and real-world programming concepts.
