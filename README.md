@@ -21,7 +21,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 13 | Distribution Anaylsis using Seaborn |
 | Day 14 | Category Breakdown (pie chart) |
 | Day 15 | Mini EDA Dashboard |
-
+| Day 16 | Complete Sales Data EDA |
 ---
 
 ## 📂 Structure
@@ -113,6 +113,14 @@ RFTInternship/
 │   ├── mini_eda_dashboard.py
 │   ├── mini_eda_dashboard.png
 │   └── README.md
+|
+├── Day16/
+│   ├── complete_sales_eda.ipynb
+│   ├── complete_sales_eda.py
+│   ├── sales_trend_chart.png
+│   ├── top_products_chart.png
+│   └── README.md
+|
 ---
 
 🚀 Consistently building and uploading daily Python internship tasks focused on problem-solving and real-world programming concepts.
