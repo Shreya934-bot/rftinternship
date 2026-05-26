@@ -22,6 +22,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 14 | Category Breakdown (pie chart) |
 | Day 15 | Mini EDA Dashboard |
 | Day 16 | Complete Sales Data EDA |
+| Day 17 | Customer Segmentation Analysis |
 ---
 
 ## 📂 Structure
@@ -121,6 +122,12 @@ RFTInternship/
 │   ├── top_products_chart.png
 │   └── README.md
 |
+├── Day17/
+│   ├── customer_segmentation_analysis.ipynb
+│   ├── customer_segmentation_analysis.py
+│   ├── spending_distribution.png
+│   ├── customer_segments.png
+│   └── README.md
 ---
 
 🚀 Consistently building and uploading daily Python internship tasks focused on problem-solving and real-world programming concepts.
