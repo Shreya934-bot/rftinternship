@@ -23,6 +23,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 15 | Mini EDA Dashboard |
 | Day 16 | Complete Sales Data EDA |
 | Day 17 | Customer Segmentation Analysis |
+| Day 18 | Movie Dataset Analysis |
 ---
 
 ## 📂 Structure
@@ -127,6 +128,13 @@ RFTInternship/
 │   ├── customer_segmentation_analysis.py
 │   ├── spending_distribution.png
 │   ├── customer_segments.png
+│   └── README.md
+|
+├── Day18/
+│   ├── movie_dataset_analysis.ipynb
+│   ├── movie_dataset_analysis.py
+│   ├── genre_vs_revenue.png
+│   ├── rating_distribution.png
 │   └── README.md
 ---
 
