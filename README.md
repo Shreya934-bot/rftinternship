@@ -24,6 +24,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 16 | Complete Sales Data EDA |
 | Day 17 | Customer Segmentation Analysis |
 | Day 18 | Movie Dataset Analysis |
+| Day 19 | Stock / Time-Series Analysis |
 ---
 
 ## 📂 Structure
@@ -135,6 +136,13 @@ RFTInternship/
 │   ├── movie_dataset_analysis.py
 │   ├── genre_vs_revenue.png
 │   ├── rating_distribution.png
+│   └── README.md
+|
+├── Day19/
+│   ├── stock_time_series_analysis.ipynb
+│   ├── stock_time_series_analysis.py
+│   ├── stock_price_trend.png
+│   ├── moving_average_chart.png
 │   └── README.md
 ---
 
