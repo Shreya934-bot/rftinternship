@@ -25,6 +25,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | Day 17 | Customer Segmentation Analysis |
 | Day 18 | Movie Dataset Analysis |
 | Day 19 | Stock / Time-Series Analysis |
+| Day 20 | Sales Analytics Capstone Project |
 ---
 
 ## 📂 Structure
@@ -144,6 +145,16 @@ RFTInternship/
 │   ├── stock_price_trend.png
 │   ├── moving_average_chart.png
 │   └── README.md
+|
+├── Day20/
+│   ├── sales_capstone.ipynb
+│   ├── sales_capstone.py
+│   ├── sales_dataset.csv
+│   ├── sales_trend.png
+│   ├── product_sales.png
+│   ├── region_sales.png
+│   └── README.md
+
 ---
 
 🚀 Consistently building and uploading daily Python internship tasks focused on problem-solving and real-world programming concepts.
