@@ -1,12 +1,14 @@
+Absolutely — now that you've reached **Day 22**, the root README should be updated so it reflects the new project and also reads more professionally. I’d keep the same style you've been using, but make the overview and learning outcomes slightly stronger.
+
 # 🚀 Python Internship – RFT
 
 ## 📌 Overview
 
 This repository contains my work completed during the **RFT Python Internship at GOW AI Academy**.
 
-Over **21 days**, I have built projects and completed tasks covering Python fundamentals, file handling, data analysis, data visualization, exploratory data analysis (EDA), customer analytics, time-series analysis, a sales analytics capstone project, and intermediate Python functions.
+Over **22 days**, I have worked on a series of hands-on Python and Data Analytics projects covering programming fundamentals, data structures, file handling, CSV processing, data cleaning, data analysis, visualization, exploratory data analysis (EDA), customer analytics, time-series analysis, business insights, and intermediate Python programming.
 
-The goal of this internship is to strengthen problem-solving skills while gaining hands-on experience with Python programming, data processing, analysis, visualization, and practical programming concepts.
+The internship focuses on developing practical problem-solving skills by working with datasets, building analytical solutions, creating visualizations, and transforming raw data into meaningful insights.
 
 ---
 
@@ -35,6 +37,7 @@ The goal of this internship is to strengthen problem-solving skills while gainin
 | Day 19 | Stock / Time-Series Analysis        |
 | Day 20 | Sales Analytics Capstone Project    |
 | Day 21 | Functions – Intermediate            |
+| Day 22 | Sales & Customer Insights Dashboard |
 
 ---
 
@@ -51,28 +54,43 @@ The goal of this internship is to strengthen problem-solving skills while gainin
 * Matplotlib
 * Seaborn
 
-### Concepts Practiced
+### Development Tools
+
+* Jupyter Notebook
+* VS Code
+* Git
+* GitHub
+
+---
+
+## 🧠 Concepts Practiced
 
 * Python Fundamentals
 * Data Structures
-* File Handling
-* CSV Processing
-* Data Cleaning
-* Data Filtering
-* Aggregation
-* GroupBy Operations
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-* Customer Segmentation
-* Time-Series Analysis
-* Trend Detection
 * Functions
 * Function Parameters
+* Default Arguments
 * `*args`
 * `**kwargs`
 * Return Values
 * Variable Scope
-* Insight Generation
+* File Handling
+* CSV Processing
+* Data Cleaning
+* Missing Value Handling
+* Duplicate Removal
+* Data Filtering
+* Data Aggregation
+* GroupBy Operations
+* Data Analysis
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* Customer Segmentation
+* Customer Analytics
+* Time-Series Analysis
+* Trend Detection
+* Business Insight Generation
+* Data Storytelling
 
 ---
 
@@ -101,10 +119,11 @@ RFTInternship/
 ├── Day18/
 ├── Day19/
 ├── Day20/
-└── Day21/
+├── Day21/
+└── Day22/
 ```
 
-Each folder contains relevant project files such as:
+Each project folder may contain:
 
 * Python Source Code (`.py`)
 * Jupyter Notebook (`.ipynb`)
@@ -114,36 +133,95 @@ Each folder contains relevant project files such as:
 
 ---
 
-## 📈 Key Learning Outcomes
+## 📊 Day 20 – Sales Analytics Capstone
 
-Through these 21 projects and tasks, I have gained hands-on experience in:
+The Day 20 capstone project focused on building a complete sales analytics workflow using Python.
 
-* Writing clean and structured Python programs
-* Working with datasets using Pandas
-* Data preprocessing and cleaning
-* Data visualization using Matplotlib and Seaborn
-* Creating dashboards and analytical reports
-* Performing exploratory data analysis
-* Generating insights from data
-* Understanding customer analytics and segmentation
-* Performing time-series analysis
-* Working with Python functions and arguments
-* Building reusable and modular code
-* Solving practical programming problems
+### Key Areas
+
+* Data Cleaning
+* Revenue Analysis
+* Product-wise Sales Analysis
+* Region-wise Sales Analysis
+* Sales Trend Visualization
+* Business Insight Generation
+
+The project demonstrated how raw sales data can be processed and transformed into meaningful business insights.
 
 ---
 
-## 🏆 Capstone Project
+## 📈 Day 22 – Sales & Customer Insights Dashboard
 
-The internship included a **Sales Analytics Capstone Project** that combined:
+Day 22 focused on combining sales analytics with customer and product insights.
 
-* Data Cleaning
-* Data Analysis
-* Data Visualization
-* Business Insight Generation
-* Reporting
+### Key Features
 
-into a complete end-to-end analytics workflow.
+* Missing data handling
+* Duplicate data removal
+* Total sales calculation
+* Average revenue calculation
+* Top 5 customer identification
+* Product-wise revenue analysis
+* Category-wise revenue analysis
+* Sales trend analysis
+
+### Visualizations
+
+* 📈 Sales Trend Line Chart
+* 📊 Top Products Bar Chart
+* 🥧 Category Distribution Pie Chart
+
+### Business Insights
+
+The analysis generates insights related to:
+
+* Highest-value customers
+* Best-performing products
+* Leading product categories
+* Peak sales periods
+* Average transaction revenue
+
+---
+
+## 📈 Key Learning Outcomes
+
+Through these 22 projects and tasks, I have gained hands-on experience in:
+
+* Writing clean and structured Python programs
+* Building reusable functions
+* Working with CSV datasets
+* Cleaning and preprocessing data
+* Handling missing and duplicate data
+* Performing data aggregation and analysis
+* Using Pandas for data manipulation
+* Creating visualizations using Matplotlib and Seaborn
+* Performing exploratory data analysis
+* Analyzing customers, products, and sales
+* Performing time-series analysis
+* Identifying trends and patterns
+* Generating meaningful business insights
+* Building end-to-end data analytics workflows
+* Documenting projects using GitHub
+
+---
+
+## 🏆 Major Projects
+
+### 📊 Sales Analytics Capstone – Day 20
+
+An end-to-end sales analytics project combining data cleaning, analysis, visualization, and business insight generation.
+
+### 👥 Customer Segmentation Analysis – Day 17
+
+Analyzed customer behavior and grouped customers based on relevant sales characteristics.
+
+### 📈 Stock / Time-Series Analysis – Day 19
+
+Performed time-series analysis to identify trends and patterns in stock-related data.
+
+### 📊 Sales & Customer Insights Dashboard – Day 22
+
+Built a complete sales and customer analytics workflow with customer ranking, product analysis, category distribution, visualizations, and automated business insights.
 
 ---
 
@@ -153,20 +231,23 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 * Machine Learning
 * Data Science
-* Analytics
-* AI Applications
+* Data Analytics
+* Artificial Intelligence
+* Python Development
+
+I enjoy turning data and programming concepts into practical solutions and continuously improving my technical and problem-solving skills through hands-on projects.
 
 ---
 
-## ⭐ Internship Status
+## ⭐ Internship Progress
 
-**✅ Completed: 21 / 21 Projects**
+**🚀 Completed: 22 / 22 Projects**
 
-🚀 Consistently building, learning, and improving through hands-on Python, Data Analytics, and Data Science projects.
+This repository documents my continuous learning journey through hands-on Python, Data Analytics, and Data Science projects during the RFT Python Internship.
 
 ---
 
 ### 🔗 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/shreya-verma-2b73b6290](http://www.linkedin.com/in/shreya-verma-2b73b6290)
-* GitHub: https://github.com/Shreya934-bot
+* GitHub: [https://github.com/Shreya934-bot](https://github.com/Shreya934-bot)
