@@ -1,4 +1,4 @@
-Absolutely — now that you've reached **Day 22**, the root README should be updated so it reflects the new project and also reads more professionally. I’d keep the same style you've been using, but make the overview and learning outcomes slightly stronger.
+
 
 # 🚀 Python Internship – RFT
 
