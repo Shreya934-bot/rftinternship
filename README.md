@@ -1,6 +1,4 @@
-Absolutely. Here is your **updated Root `README.md`** with **Day 23 – Employee Performance Analytics System** added. I've also cleaned up the broken Markdown formatting so you can directly **copy and paste everything into GitHub**.
 
-````markdown
 # 🚀 Python Internship – RFT
 
 ## 📌 Overview
