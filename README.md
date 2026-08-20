@@ -1,12 +1,13 @@
+Absolutely. Here is your **updated Root `README.md`** with **Day 23 – Employee Performance Analytics System** added. I've also cleaned up the broken Markdown formatting so you can directly **copy and paste everything into GitHub**.
 
-
+````markdown
 # 🚀 Python Internship – RFT
 
 ## 📌 Overview
 
 This repository contains my work completed during the **RFT Python Internship at GOW AI Academy**.
 
-Over **22 days**, I have worked on a series of hands-on Python and Data Analytics projects covering programming fundamentals, data structures, file handling, CSV processing, data cleaning, data analysis, visualization, exploratory data analysis (EDA), customer analytics, time-series analysis, business insights, and intermediate Python programming.
+Over **23 days**, I have worked on a series of hands-on Python and Data Analytics projects covering programming fundamentals, data structures, file handling, CSV processing, data cleaning, data analysis, visualization, exploratory data analysis (EDA), customer analytics, time-series analysis, business insights, intermediate Python programming, and interactive dashboards.
 
 The internship focuses on developing practical problem-solving skills by working with datasets, building analytical solutions, creating visualizations, and transforming raw data into meaningful insights.
 
@@ -14,30 +15,31 @@ The internship focuses on developing practical problem-solving skills by working
 
 ## 📅 Internship Progress
 
-| Day    | Project                             |
-| ------ | ----------------------------------- |
-| Day 1  | Data Cleaner                        |
-| Day 2  | Student Score Analyzer              |
-| Day 3  | Dictionary-Based Phonebook          |
-| Day 4  | Simple Log Analyzer                 |
-| Day 5  | Basic CSV Reader                    |
-| Day 6  | Sales Data Analyzer                 |
-| Day 7  | Student Performance Analyzer        |
-| Day 8  | Employee Salary Insights            |
-| Day 9  | Data Filtering Tool                 |
-| Day 10 | Log Analyzer                        |
-| Day 11 | Sales Trend Visualization           |
-| Day 12 | Student Performance Dashboard       |
+| Day | Project |
+|-----|---------|
+| Day 1 | Data Cleaner |
+| Day 2 | Student Score Analyzer |
+| Day 3 | Dictionary-Based Phonebook |
+| Day 4 | Simple Log Analyzer |
+| Day 5 | Basic CSV Reader |
+| Day 6 | Sales Data Analyzer |
+| Day 7 | Student Performance Analyzer |
+| Day 8 | Employee Salary Insights |
+| Day 9 | Data Filtering Tool |
+| Day 10 | Log Analyzer |
+| Day 11 | Sales Trend Visualization |
+| Day 12 | Student Performance Dashboard |
 | Day 13 | Distribution Analysis Using Seaborn |
-| Day 14 | Category Breakdown (Pie Chart)      |
-| Day 15 | Mini EDA Dashboard                  |
-| Day 16 | Complete Sales Data EDA             |
-| Day 17 | Customer Segmentation Analysis      |
-| Day 18 | Movie Dataset Analysis              |
-| Day 19 | Stock / Time-Series Analysis        |
-| Day 20 | Sales Analytics Capstone Project    |
-| Day 21 | Functions – Intermediate            |
+| Day 14 | Category Breakdown (Pie Chart) |
+| Day 15 | Mini EDA Dashboard |
+| Day 16 | Complete Sales Data EDA |
+| Day 17 | Customer Segmentation Analysis |
+| Day 18 | Movie Dataset Analysis |
+| Day 19 | Stock / Time-Series Analysis |
+| Day 20 | Sales Analytics Capstone Project |
+| Day 21 | Functions – Intermediate |
 | Day 22 | Sales & Customer Insights Dashboard |
+| Day 23 | Employee Performance Analytics System |
 
 ---
 
@@ -45,52 +47,57 @@ The internship focuses on developing practical problem-solving skills by working
 
 ### Programming Language
 
-* Python
+- Python
 
 ### Libraries
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Streamlit
 
 ### Development Tools
 
-* Jupyter Notebook
-* VS Code
-* Git
-* GitHub
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
 
 ---
 
 ## 🧠 Concepts Practiced
 
-* Python Fundamentals
-* Data Structures
-* Functions
-* Function Parameters
-* Default Arguments
-* `*args`
-* `**kwargs`
-* Return Values
-* Variable Scope
-* File Handling
-* CSV Processing
-* Data Cleaning
-* Missing Value Handling
-* Duplicate Removal
-* Data Filtering
-* Data Aggregation
-* GroupBy Operations
-* Data Analysis
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-* Customer Segmentation
-* Customer Analytics
-* Time-Series Analysis
-* Trend Detection
-* Business Insight Generation
-* Data Storytelling
+- Python Fundamentals
+- Data Structures
+- Functions
+- Function Parameters
+- Default Arguments
+- `*args`
+- `**kwargs`
+- Return Values
+- Variable Scope
+- File Handling
+- CSV Processing
+- Data Cleaning
+- Missing Value Handling
+- Duplicate Removal
+- Data Filtering
+- Data Aggregation
+- GroupBy Operations
+- Data Analysis
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Customer Segmentation
+- Customer Analytics
+- Employee Analytics
+- Time-Series Analysis
+- Trend Detection
+- Business Insight Generation
+- Data Storytelling
+- Interactive Dashboards
+- Streamlit
+- CSV Report Export
 
 ---
 
@@ -120,8 +127,9 @@ RFTInternship/
 ├── Day19/
 ├── Day20/
 ├── Day21/
-└── Day22/
-```
+├── Day22/
+└── Day23/
+````
 
 Each project folder may contain:
 
@@ -129,13 +137,17 @@ Each project folder may contain:
 * Jupyter Notebook (`.ipynb`)
 * Dataset Files (`.csv`) where applicable
 * Visualizations (`.png`) where applicable
+* Generated Reports (`.csv`) where applicable
+* Streamlit Dashboard (`.py`) where applicable
 * Project Documentation (`README.md`)
 
 ---
 
-## 📊 Day 20 – Sales Analytics Capstone
+# 📊 Featured Projects
 
-The Day 20 capstone project focused on building a complete sales analytics workflow using Python.
+## 📈 Day 20 – Sales Analytics Capstone Project
+
+The Day 20 capstone project focused on building a complete end-to-end sales analytics workflow using Python.
 
 ### Key Areas
 
@@ -146,11 +158,11 @@ The Day 20 capstone project focused on building a complete sales analytics workf
 * Sales Trend Visualization
 * Business Insight Generation
 
-The project demonstrated how raw sales data can be processed and transformed into meaningful business insights.
+The project demonstrated how raw sales data can be processed, analyzed, visualized, and transformed into meaningful business insights.
 
 ---
 
-## 📈 Day 22 – Sales & Customer Insights Dashboard
+## 👥 Day 22 – Sales & Customer Insights Dashboard
 
 Day 22 focused on combining sales analytics with customer and product insights.
 
@@ -162,7 +174,7 @@ Day 22 focused on combining sales analytics with customer and product insights.
 * Average revenue calculation
 * Top 5 customer identification
 * Product-wise revenue analysis
-* Category-wise revenue analysis
+* Category-wise analysis
 * Sales trend analysis
 
 ### Visualizations
@@ -183,9 +195,39 @@ The analysis generates insights related to:
 
 ---
 
+## 🧑‍💼 Day 23 – Employee Performance Analytics System
+
+Day 23 focused on analyzing employee performance data and generating meaningful workforce insights.
+
+### Key Features
+
+* Employee performance data analysis
+* Data cleaning and preprocessing
+* Department-wise average performance calculation
+* Top 10 performer identification
+* Employees with attendance below 75%
+* Performance comparison analysis
+* Attendance trend analysis
+* Department distribution analysis
+* Final report export as CSV
+
+### Visualizations
+
+* 📊 Performance Comparison Chart
+* 📈 Attendance Trend
+* 🥧 Department Distribution Pie Chart
+
+### Bonus Challenge
+
+An interactive **Streamlit Dashboard** was created to explore employee performance data with filtering capabilities.
+
+The dashboard allows users to analyze employee information interactively and view filtered reports.
+
+---
+
 ## 📈 Key Learning Outcomes
 
-Through these 22 projects and tasks, I have gained hands-on experience in:
+Through these **23 projects and tasks**, I have gained hands-on experience in:
 
 * Writing clean and structured Python programs
 * Building reusable functions
@@ -196,10 +238,12 @@ Through these 22 projects and tasks, I have gained hands-on experience in:
 * Using Pandas for data manipulation
 * Creating visualizations using Matplotlib and Seaborn
 * Performing exploratory data analysis
-* Analyzing customers, products, and sales
+* Analyzing customers, products, sales, and employee performance
 * Performing time-series analysis
 * Identifying trends and patterns
 * Generating meaningful business insights
+* Building interactive dashboards using Streamlit
+* Exporting analytical reports as CSV files
 * Building end-to-end data analytics workflows
 * Documenting projects using GitHub
 
@@ -209,7 +253,13 @@ Through these 22 projects and tasks, I have gained hands-on experience in:
 
 ### 📊 Sales Analytics Capstone – Day 20
 
-An end-to-end sales analytics project combining data cleaning, analysis, visualization, and business insight generation.
+An end-to-end sales analytics project combining:
+
+* Data Cleaning
+* Data Analysis
+* Revenue Analysis
+* Data Visualization
+* Business Insight Generation
 
 ### 👥 Customer Segmentation Analysis – Day 17
 
@@ -221,7 +271,25 @@ Performed time-series analysis to identify trends and patterns in stock-related 
 
 ### 📊 Sales & Customer Insights Dashboard – Day 22
 
-Built a complete sales and customer analytics workflow with customer ranking, product analysis, category distribution, visualizations, and automated business insights.
+Built a complete sales and customer analytics workflow with:
+
+* Customer ranking
+* Product analysis
+* Category distribution
+* Sales trend analysis
+* Data visualizations
+* Business insights
+
+### 🧑‍💼 Employee Performance Analytics System – Day 23
+
+Built an employee analytics system featuring:
+
+* Department-wise performance analysis
+* Top 10 performer identification
+* Low attendance detection
+* Attendance and performance visualizations
+* CSV report generation
+* Interactive Streamlit dashboard
 
 ---
 
@@ -241,13 +309,24 @@ I enjoy turning data and programming concepts into practical solutions and conti
 
 ## ⭐ Internship Progress
 
-**🚀 Completed: 22 / 22 Projects**
+### 🚀 Completed: 23 Projects
 
-This repository documents my continuous learning journey through hands-on Python, Data Analytics, and Data Science projects during the RFT Python Internship.
+This repository documents my continuous learning journey through hands-on **Python, Data Analytics, Data Science, and Dashboard Development** projects during the RFT Python Internship.
+
+**Current Progress: 23 / 23 Tasks Completed** ✅
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/shreya-verma-2b73b6290](http://www.linkedin.com/in/shreya-verma-2b73b6290)
-* GitHub: [https://github.com/Shreya934-bot](https://github.com/Shreya934-bot)
+* LinkedIn: [Shreya Verma](https://www.linkedin.com/in/shreya-verma-2b73b6290/)
+* GitHub: [Shreya934-bot](https://github.com/Shreya934-bot)
+
+---
+
+⭐ **If you find this repository useful, feel free to explore the projects and follow my learning journey!**
+
+```
+
+This is now updated through **Day 23**, including your **Streamlit bonus dashboard**, generated CSV report, and all the new concepts you used. 
+```
