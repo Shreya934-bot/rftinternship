@@ -1,15 +1,12 @@
-Absolutely. Here is your **updated Root `README.md`** with **Day 23 – Employee Performance Analytics System** added. I've also cleaned up the broken Markdown formatting so you can directly **copy and paste everything into GitHub**.
-
-````markdown
 # 🚀 Python Internship – RFT
 
 ## 📌 Overview
 
 This repository contains my work completed during the **RFT Python Internship at GOW AI Academy**.
 
-Over **23 days**, I have worked on a series of hands-on Python and Data Analytics projects covering programming fundamentals, data structures, file handling, CSV processing, data cleaning, data analysis, visualization, exploratory data analysis (EDA), customer analytics, time-series analysis, business insights, intermediate Python programming, and interactive dashboards.
+Over **24 days**, I have worked on a series of hands-on Python and Data Analytics projects covering programming fundamentals, data structures, file handling, CSV processing, data cleaning, data analysis, visualization, exploratory data analysis (EDA), customer analytics, employee analytics, time-series analysis, weather analytics, business insights, intermediate Python programming, report generation, and interactive dashboards.
 
-The internship focuses on developing practical problem-solving skills by working with datasets, building analytical solutions, creating visualizations, and transforming raw data into meaningful insights.
+The internship focuses on developing practical problem-solving skills by working with datasets, building analytical solutions, creating visualizations, generating reports, and transforming raw data into meaningful insights.
 
 ---
 
@@ -40,6 +37,7 @@ The internship focuses on developing practical problem-solving skills by working
 | Day 21 | Functions – Intermediate |
 | Day 22 | Sales & Customer Insights Dashboard |
 | Day 23 | Employee Performance Analytics System |
+| Day 24 | Weather Data Analytics System |
 
 ---
 
@@ -91,8 +89,11 @@ The internship focuses on developing practical problem-solving skills by working
 - Customer Segmentation
 - Customer Analytics
 - Employee Analytics
+- Weather Analytics
 - Time-Series Analysis
 - Trend Detection
+- Moving Average
+- Basic Prediction
 - Business Insight Generation
 - Data Storytelling
 - Interactive Dashboards
@@ -128,7 +129,8 @@ RFTInternship/
 ├── Day20/
 ├── Day21/
 ├── Day22/
-└── Day23/
+├── Day23/
+└── Day24/
 ````
 
 Each project folder may contain:
@@ -225,9 +227,56 @@ The dashboard allows users to analyze employee information interactively and vie
 
 ---
 
+## 🌦️ Day 24 – Weather Data Analytics System
+
+Day 24 focused on building an end-to-end weather analytics system using Python.
+
+The project analyzes weather data from multiple cities to identify temperature patterns, weather conditions, and city-wise insights.
+
+### Key Features
+
+* Weather data analysis from CSV files
+* Data cleaning and preprocessing
+* Missing value handling
+* Duplicate data removal
+* Average temperature calculation for each city
+* Hottest city identification
+* Coldest city identification
+* Rainy weather count
+* Sunny weather count
+* Temperature trend analysis
+* City-wise temperature comparison
+* Final weather report export as CSV
+
+### Visualizations
+
+* 🌡️ Temperature Trend
+* 🌧️ Weather Distribution
+* 📊 Average Temperature per City
+
+### Bonus Challenges
+
+The project also includes:
+
+* 🔮 Tomorrow's temperature prediction using a 7-day moving average
+* 🖥️ Interactive Streamlit dashboard with filters
+
+The Streamlit dashboard allows users to interactively explore:
+
+* Different cities
+* Weather conditions
+* Date ranges
+* Temperature trends
+* City-wise temperature analysis
+* Weather distribution
+* Hottest and coldest cities
+* Moving average temperature prediction
+
+---
+
 ## 📈 Key Learning Outcomes
 
-Through these **23 projects and tasks**, I have gained hands-on experience in:
+Through these **24 projects and tasks**, I have gained hands-on experience in:
 
 * Writing clean and structured Python programs
 * Building reusable functions
@@ -238,9 +287,10 @@ Through these **23 projects and tasks**, I have gained hands-on experience in:
 * Using Pandas for data manipulation
 * Creating visualizations using Matplotlib and Seaborn
 * Performing exploratory data analysis
-* Analyzing customers, products, sales, and employee performance
+* Analyzing customers, products, sales, employees, and weather data
 * Performing time-series analysis
 * Identifying trends and patterns
+* Using moving averages for basic predictions
 * Generating meaningful business insights
 * Building interactive dashboards using Streamlit
 * Exporting analytical reports as CSV files
@@ -291,6 +341,20 @@ Built an employee analytics system featuring:
 * CSV report generation
 * Interactive Streamlit dashboard
 
+### 🌦️ Weather Data Analytics System – Day 24
+
+Built a complete weather analytics system featuring:
+
+* City-wise temperature analysis
+* Hottest and coldest city identification
+* Rainy and sunny weather analysis
+* Temperature trend visualization
+* Weather distribution analysis
+* City-wise temperature comparison
+* CSV report generation
+* 7-day moving average temperature prediction
+* Interactive Streamlit dashboard with filters
+
 ---
 
 ## 🎯 About Me
@@ -309,11 +373,11 @@ I enjoy turning data and programming concepts into practical solutions and conti
 
 ## ⭐ Internship Progress
 
-### 🚀 Completed: 23 Projects
+### 🚀 Completed: 24 Projects
 
-This repository documents my continuous learning journey through hands-on **Python, Data Analytics, Data Science, and Dashboard Development** projects during the RFT Python Internship.
+This repository documents my continuous learning journey through hands-on **Python, Data Analytics, Data Science, Visualization, and Dashboard Development** projects during the RFT Python Internship.
 
-**Current Progress: 23 / 23 Tasks Completed** ✅
+**Current Progress: 24 / 24 Tasks Completed** ✅
 
 ---
 
@@ -328,5 +392,5 @@ This repository documents my continuous learning journey through hands-on **Pyth
 
 ```
 
-This is now updated through **Day 23**, including your **Streamlit bonus dashboard**, generated CSV report, and all the new concepts you used. 
+This version now properly updates everything through **Day 24**, including the **Weather Analytics project, moving-average prediction, CSV report, and Streamlit dashboard**. 
 ```
