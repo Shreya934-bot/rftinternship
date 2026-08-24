@@ -4,7 +4,7 @@
 
 This repository contains my work completed during the **RFT Python Internship at GOW AI Academy**.
 
-Over **24 days**, I have worked on a series of hands-on Python and Data Analytics projects covering programming fundamentals, data structures, file handling, CSV processing, data cleaning, data analysis, visualization, exploratory data analysis (EDA), customer analytics, employee analytics, time-series analysis, weather analytics, business insights, intermediate Python programming, report generation, and interactive dashboards.
+Over **25 days**, I have worked on a series of hands-on Python and Data Analytics projects covering programming fundamentals, data structures, file handling, CSV processing, data cleaning, data analysis, visualization, exploratory data analysis (EDA), customer analytics, employee analytics, time-series analysis, weather analytics, fraud detection, transaction analysis, risk scoring, business insights, intermediate Python programming, report generation, and interactive dashboards.
 
 The internship focuses on developing practical problem-solving skills by working with datasets, building analytical solutions, creating visualizations, generating reports, and transforming raw data into meaningful insights.
 
@@ -38,6 +38,7 @@ The internship focuses on developing practical problem-solving skills by working
 | Day 22 | Sales & Customer Insights Dashboard |
 | Day 23 | Employee Performance Analytics System |
 | Day 24 | Weather Data Analytics System |
+| Day 25 | Fraud Detection & Transaction Analysis System |
 
 ---
 
@@ -54,6 +55,7 @@ The internship focuses on developing practical problem-solving skills by working
 - Matplotlib
 - Seaborn
 - Streamlit
+- Plotly
 
 ### Development Tools
 
@@ -90,6 +92,10 @@ The internship focuses on developing practical problem-solving skills by working
 - Customer Analytics
 - Employee Analytics
 - Weather Analytics
+- Transaction Analysis
+- Fraud Detection
+- Risk Scoring
+- Suspicious Activity Detection
 - Time-Series Analysis
 - Trend Detection
 - Moving Average
@@ -98,6 +104,7 @@ The internship focuses on developing practical problem-solving skills by working
 - Data Storytelling
 - Interactive Dashboards
 - Streamlit
+- Plotly
 - CSV Report Export
 
 ---
@@ -130,7 +137,8 @@ RFTInternship/
 ├── Day21/
 ├── Day22/
 ├── Day23/
-└── Day24/
+├── Day24/
+└── Day25/
 ````
 
 Each project folder may contain:
@@ -274,9 +282,54 @@ The Streamlit dashboard allows users to interactively explore:
 
 ---
 
+## 🔐 Day 25 – Fraud Detection & Transaction Analysis System
+
+Day 25 focused on building a transaction analytics system to identify potentially suspicious activity and generate meaningful fraud-related insights.
+
+### Key Features
+
+* Transaction data analysis from CSV files
+* Duplicate transaction detection
+* High-value transaction identification
+* Suspicious account detection based on frequent transactions
+* Transaction risk scoring
+* Risk-level classification
+* Suspicious transaction identification
+* Transaction status analysis
+* Suspicious transaction report export as CSV
+
+### Visualizations
+
+* 📊 Transaction Category Chart
+* 📈 Daily Transaction Trend
+* 💰 Top 10 Highest Transactions
+
+### Bonus Challenges
+
+The project also includes:
+
+* 🧠 Rule-based risk score generation for each transaction
+* 🖥️ Interactive Streamlit dashboard with search and filters
+
+The dashboard allows users to interactively explore:
+
+* Transaction categories
+* Date ranges
+* Payment methods
+* Cities
+* Transaction status
+* Risk levels
+* Suspicious transactions
+* Transaction and account search
+* High-risk transaction patterns
+* Account-level transaction activity
+* Filtered report downloads
+
+---
+
 ## 📈 Key Learning Outcomes
 
-Through these **24 projects and tasks**, I have gained hands-on experience in:
+Through these **25 projects and tasks**, I have gained hands-on experience in:
 
 * Writing clean and structured Python programs
 * Building reusable functions
@@ -287,10 +340,12 @@ Through these **24 projects and tasks**, I have gained hands-on experience in:
 * Using Pandas for data manipulation
 * Creating visualizations using Matplotlib and Seaborn
 * Performing exploratory data analysis
-* Analyzing customers, products, sales, employees, and weather data
+* Analyzing customers, products, sales, employees, weather data, and transactions
 * Performing time-series analysis
 * Identifying trends and patterns
 * Using moving averages for basic predictions
+* Detecting suspicious transaction patterns
+* Creating rule-based risk scores and risk classifications
 * Generating meaningful business insights
 * Building interactive dashboards using Streamlit
 * Exporting analytical reports as CSV files
@@ -355,6 +410,21 @@ Built a complete weather analytics system featuring:
 * 7-day moving average temperature prediction
 * Interactive Streamlit dashboard with filters
 
+### 🔐 Fraud Detection & Transaction Analysis System – Day 25
+
+Built an end-to-end transaction analysis system featuring:
+
+* Duplicate transaction detection
+* High-value transaction analysis
+* Frequent suspicious account detection
+* Transaction risk scoring
+* Risk-level classification
+* Daily transaction trend analysis
+* Transaction category visualization
+* Top 10 highest transaction analysis
+* Suspicious transaction CSV report generation
+* Interactive Streamlit dashboard with search and filters
+
 ---
 
 ## 🎯 About Me
@@ -373,11 +443,11 @@ I enjoy turning data and programming concepts into practical solutions and conti
 
 ## ⭐ Internship Progress
 
-### 🚀 Completed: 24 Projects
+### 🚀 Completed: 25 Projects
 
-This repository documents my continuous learning journey through hands-on **Python, Data Analytics, Data Science, Visualization, and Dashboard Development** projects during the RFT Python Internship.
+This repository documents my continuous learning journey through hands-on **Python, Data Analytics, Data Science, Visualization, Fraud Detection, and Dashboard Development** projects during the RFT Python Internship.
 
-**Current Progress: 24 / 24 Tasks Completed** ✅
+**Current Progress: 25 / 25 Tasks Completed** ✅
 
 ---
 
@@ -390,7 +460,4 @@ This repository documents my continuous learning journey through hands-on **Pyth
 
 ⭐ **If you find this repository useful, feel free to explore the projects and follow my learning journey!**
 
-```
 
-This version now properly updates everything through **Day 24**, including the **Weather Analytics project, moving-average prediction, CSV report, and Streamlit dashboard**. 
-```
