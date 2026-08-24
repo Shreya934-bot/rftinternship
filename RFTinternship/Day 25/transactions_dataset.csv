@@ -1,0 +1,516 @@
+Transaction_ID,Transaction_Date,Account_ID,Transaction_Category,Amount,Payment_Method,City,Status
+TXN100166,2026-06-01 03:26:00,ACC1027,Healthcare,3413.33,Net Banking,Bengaluru,Completed
+TXN100444,2026-06-01 05:01:00,ACC1073,Bills,845.58,Wallet,Chennai,Pending
+TXN100018,2026-06-01 12:49:00,ACC1008,Food & Dining,2036.94,Credit Card,Mumbai,Completed
+TXN100262,2026-06-01 14:14:00,ACC1032,Shopping,5032.31,Debit Card,Pune,Completed
+TXN100001,2026-06-01 14:20:00,ACC1048,Bills,1049.24,Wallet,Kolkata,Completed
+TXN100096,2026-06-01 16:56:00,ACC1004,Travel,2477.27,Wallet,Chennai,Failed
+TXN100321,2026-06-02 06:02:00,ACC1011,Entertainment,3493.09,Net Banking,Pune,Completed
+TXN100339,2026-06-02 10:09:00,ACC1071,Healthcare,1679.79,Debit Card,Kolkata,Pending
+TXN100372,2026-06-02 12:40:00,ACC1058,Transfer,1039.57,Wallet,Hyderabad,Pending
+TXN100369,2026-06-02 18:37:00,ACC1068,Shopping,2243.65,Net Banking,Bengaluru,Completed
+TXN100118,2026-06-02 18:48:00,ACC1025,Transfer,373.37,Net Banking,Kolkata,Failed
+TXN100200,2026-06-02 20:53:00,ACC1003,Travel,1105.71,Wallet,Bengaluru,Failed
+TXN100122,2026-06-02 20:55:00,ACC1058,Bills,876.34,Net Banking,Delhi,Failed
+TXN100036,2026-06-02 21:47:00,ACC1002,Bills,233189.05,Net Banking,Pune,Completed
+TXN100302,2026-06-02 22:51:00,ACC1036,Travel,2682.28,Net Banking,Chennai,Pending
+TXN100379,2026-06-02 23:49:00,ACC1008,Food & Dining,9900.73,Credit Card,Bengaluru,Failed
+TXN100310,2026-06-03 00:31:00,ACC1003,Shopping,3108.75,UPI,Ahmedabad,Completed
+TXN100442,2026-06-03 09:00:00,ACC1008,Healthcare,343.47,Credit Card,Ahmedabad,Pending
+TXN100408,2026-06-03 09:16:00,ACC1072,Transfer,1056.08,Credit Card,Bengaluru,Pending
+TXN100132,2026-06-03 11:21:00,ACC1070,Healthcare,1216.62,UPI,Kolkata,Completed
+TXN100132,2026-06-03 11:21:00,ACC1070,Healthcare,1216.62,UPI,Kolkata,Completed
+TXN100229,2026-06-03 14:28:00,ACC1011,Transfer,4967.39,Credit Card,Pune,Completed
+TXN100049,2026-06-03 16:50:00,ACC1057,Entertainment,1595.97,Debit Card,Chennai,Pending
+TXN100390,2026-06-03 18:27:00,ACC1015,Bills,2847.39,Debit Card,Pune,Completed
+TXN100470,2026-06-03 18:54:00,ACC1027,Transfer,1053.02,Credit Card,Mumbai,Failed
+TXN100355,2026-06-04 02:59:00,ACC1068,Bills,1515.96,Wallet,Delhi,Pending
+TXN100124,2026-06-04 15:38:00,ACC1005,Shopping,2257.95,Wallet,Ahmedabad,Failed
+TXN100023,2026-06-04 16:31:00,ACC1003,Food & Dining,1708.64,Credit Card,Hyderabad,Failed
+TXN100226,2026-06-04 20:10:00,ACC1022,Food & Dining,1105.85,UPI,Hyderabad,Completed
+TXN100364,2026-06-04 20:19:00,ACC1002,Food & Dining,921.96,UPI,Delhi,Completed
+TXN100420,2026-06-04 21:20:00,ACC1020,Food & Dining,154627.67,Wallet,Bengaluru,Completed
+TXN100487,2026-06-05 00:41:00,ACC1058,Healthcare,3586.22,Debit Card,Bengaluru,Failed
+TXN100411,2026-06-05 02:15:00,ACC1019,Shopping,941.33,Credit Card,Delhi,Failed
+TXN100454,2026-06-05 05:42:00,ACC1011,Travel,895.48,Debit Card,Mumbai,Failed
+TXN100007,2026-06-05 08:25:00,ACC1004,Travel,308.53,Credit Card,Hyderabad,Pending
+TXN100356,2026-06-05 08:55:00,ACC1038,Travel,2235.73,Net Banking,Delhi,Completed
+TXN100219,2026-06-05 16:56:00,ACC1027,Travel,475.88,Wallet,Pune,Failed
+TXN100404,2026-06-05 18:53:00,ACC1060,Healthcare,934.23,UPI,Delhi,Completed
+TXN100162,2026-06-05 19:10:00,ACC1054,Healthcare,3708.98,Credit Card,Pune,Failed
+TXN100265,2026-06-06 03:12:00,ACC1043,Food & Dining,292.04,Credit Card,Bengaluru,Completed
+TXN100349,2026-06-06 03:20:00,ACC1027,Food & Dining,4489.32,Wallet,Hyderabad,Failed
+TXN100156,2026-06-06 15:10:00,ACC1044,Bills,1263.09,UPI,Kolkata,Completed
+TXN100322,2026-06-06 15:55:00,ACC1011,Food & Dining,3581.99,Debit Card,Kolkata,Completed
+TXN100138,2026-06-06 19:52:00,ACC1046,Travel,522.75,Debit Card,Ahmedabad,Pending
+TXN100110,2026-06-06 22:51:00,ACC1019,Shopping,1756.65,Net Banking,Pune,Completed
+TXN100313,2026-06-07 00:40:00,ACC1010,Food & Dining,1089.92,Debit Card,Ahmedabad,Completed
+TXN100494,2026-06-07 01:16:00,ACC1006,Entertainment,1082.46,Net Banking,Delhi,Failed
+TXN100055,2026-06-07 02:32:00,ACC1058,Travel,1775.26,Credit Card,Mumbai,Pending
+TXN100104,2026-06-07 10:28:00,ACC1007,Shopping,418.19,Net Banking,Mumbai,Failed
+TXN100222,2026-06-07 13:54:00,ACC1077,Bills,803.87,Debit Card,Mumbai,Failed
+TXN100083,2026-06-07 17:32:00,ACC1042,Shopping,1000.23,Net Banking,Pune,Completed
+TXN100451,2026-06-08 06:52:00,ACC1058,Shopping,380.88,Wallet,Mumbai,Completed
+TXN100054,2026-06-08 09:07:00,ACC1027,Entertainment,1355.11,Wallet,Chennai,Failed
+TXN100493,2026-06-08 09:27:00,ACC1061,Healthcare,197887.92,Net Banking,Chennai,Completed
+TXN100476,2026-06-08 10:49:00,ACC1045,Transfer,1670.53,Debit Card,Mumbai,Completed
+TXN100150,2026-06-08 14:45:00,ACC1031,Entertainment,773.08,UPI,Hyderabad,Completed
+TXN100471,2026-06-08 16:53:00,ACC1042,Entertainment,3135.54,Net Banking,Hyderabad,Pending
+TXN100319,2026-06-08 17:11:00,ACC1034,Entertainment,2987.82,UPI,Pune,Completed
+TXN100047,2026-06-08 21:54:00,ACC1019,Food & Dining,922.56,Net Banking,Delhi,Completed
+TXN100309,2026-06-08 22:11:00,ACC1015,Transfer,672.3,Net Banking,Mumbai,Pending
+TXN100092,2026-06-09 00:14:00,ACC1011,Healthcare,633.76,Wallet,Kolkata,Completed
+TXN100359,2026-06-09 11:03:00,ACC1031,Travel,2043.63,Credit Card,Pune,Failed
+TXN100106,2026-06-09 11:05:00,ACC1046,Bills,4061.4,UPI,Chennai,Pending
+TXN100130,2026-06-09 19:06:00,ACC1027,Transfer,1440.98,Debit Card,Bengaluru,Completed
+TXN100280,2026-06-09 19:28:00,ACC1009,Healthcare,193164.85,Wallet,Chennai,Completed
+TXN100361,2026-06-09 22:34:00,ACC1015,Travel,3028.21,UPI,Pune,Completed
+TXN100232,2026-06-10 09:45:00,ACC1074,Food & Dining,1967.49,Wallet,Bengaluru,Completed
+TXN100128,2026-06-10 17:06:00,ACC1023,Bills,618.56,UPI,Chennai,Completed
+TXN100352,2026-06-11 12:31:00,ACC1003,Bills,617.79,UPI,Mumbai,Completed
+TXN100212,2026-06-11 21:47:00,ACC1074,Food & Dining,1673.84,Net Banking,Mumbai,Completed
+TXN100299,2026-06-11 21:48:00,ACC1074,Food & Dining,1869.48,Net Banking,Hyderabad,Pending
+TXN100000,2026-06-11 23:15:00,ACC1058,Healthcare,1604.52,Net Banking,Kolkata,Completed
+TXN100014,2026-06-12 03:03:00,ACC1003,Transfer,1344.72,Debit Card,Bengaluru,Completed
+TXN100336,2026-06-12 08:51:00,ACC1045,Bills,4515.82,UPI,Chennai,Completed
+TXN100331,2026-06-12 13:26:00,ACC1027,Food & Dining,9866.53,Credit Card,Chennai,Completed
+TXN100067,2026-06-12 21:59:00,ACC1030,Shopping,1721.4,Wallet,Bengaluru,Completed
+TXN100403,2026-06-13 02:29:00,ACC1065,Travel,772.61,Net Banking,Chennai,Completed
+TXN100209,2026-06-13 12:47:00,ACC1069,Entertainment,1313.17,Credit Card,Ahmedabad,Pending
+TXN100472,2026-06-13 13:10:00,ACC1070,Shopping,2343.05,Credit Card,Pune,Completed
+TXN100178,2026-06-13 14:21:00,ACC1006,Bills,2476.13,UPI,Bengaluru,Pending
+TXN100035,2026-06-13 19:11:00,ACC1003,Travel,11650.14,Net Banking,Pune,Failed
+TXN100432,2026-06-13 21:49:00,ACC1016,Healthcare,1913.97,Credit Card,Chennai,Completed
+TXN100441,2026-06-13 23:51:00,ACC1076,Food & Dining,1071.77,UPI,Ahmedabad,Completed
+TXN100488,2026-06-14 07:50:00,ACC1003,Transfer,2892.33,Wallet,Kolkata,Pending
+TXN100076,2026-06-14 12:17:00,ACC1049,Transfer,1582.41,UPI,Chennai,Completed
+TXN100412,2026-06-14 16:58:00,ACC1058,Food & Dining,6234.31,Wallet,Delhi,Pending
+TXN100402,2026-06-14 18:30:00,ACC1076,Entertainment,1055.75,Credit Card,Chennai,Failed
+TXN100343,2026-06-15 12:52:00,ACC1058,Healthcare,1067.97,Debit Card,Hyderabad,Completed
+TXN100376,2026-06-15 19:57:00,ACC1042,Healthcare,177277.31,Debit Card,Chennai,Failed
+TXN100208,2026-06-16 03:54:00,ACC1042,Transfer,4044.05,Credit Card,Delhi,Completed
+TXN100327,2026-06-16 05:18:00,ACC1004,Travel,8289.01,Wallet,Hyderabad,Pending
+TXN100225,2026-06-16 05:59:00,ACC1041,Food & Dining,263.0,Net Banking,Hyderabad,Completed
+TXN100213,2026-06-16 06:16:00,ACC1068,Healthcare,5791.73,Debit Card,Pune,Completed
+TXN100193,2026-06-16 11:39:00,ACC1076,Transfer,122138.48,Credit Card,Pune,Completed
+TXN100392,2026-06-16 13:19:00,ACC1011,Travel,3725.93,Wallet,Pune,Failed
+TXN100137,2026-06-16 17:42:00,ACC1042,Travel,559.46,Net Banking,Chennai,Failed
+TXN100292,2026-06-16 17:51:00,ACC1069,Transfer,76017.25,Debit Card,Kolkata,Completed
+TXN100462,2026-06-17 00:53:00,ACC1031,Food & Dining,607.57,Net Banking,Chennai,Completed
+TXN100100,2026-06-17 03:27:00,ACC1063,Bills,937.92,UPI,Bengaluru,Failed
+TXN100386,2026-06-17 04:48:00,ACC1043,Food & Dining,2107.79,Debit Card,Ahmedabad,Completed
+TXN100169,2026-06-17 06:19:00,ACC1074,Food & Dining,1313.93,Credit Card,Chennai,Completed
+TXN100065,2026-06-17 07:23:00,ACC1034,Healthcare,2725.42,Credit Card,Chennai,Pending
+TXN100252,2026-06-17 10:24:00,ACC1003,Bills,352.5,Credit Card,Ahmedabad,Completed
+TXN100215,2026-06-17 12:16:00,ACC1045,Healthcare,17274.22,Debit Card,Pune,Completed
+TXN100061,2026-06-17 14:17:00,ACC1053,Food & Dining,3262.46,Wallet,Bengaluru,Failed
+TXN100101,2026-06-17 21:00:00,ACC1002,Travel,1582.47,UPI,Hyderabad,Failed
+TXN100151,2026-06-18 00:58:00,ACC1068,Travel,5973.22,UPI,Delhi,Failed
+TXN100293,2026-06-18 11:44:00,ACC1026,Shopping,2409.35,Net Banking,Chennai,Completed
+TXN100293,2026-06-18 11:44:00,ACC1026,Shopping,2409.35,Net Banking,Chennai,Completed
+TXN100281,2026-06-18 14:22:00,ACC1003,Transfer,229.5,Net Banking,Pune,Failed
+TXN100033,2026-06-18 19:38:00,ACC1018,Healthcare,492.81,Net Banking,Chennai,Failed
+TXN100205,2026-06-19 00:19:00,ACC1053,Bills,528.71,Net Banking,Bengaluru,Pending
+TXN100210,2026-06-19 03:05:00,ACC1003,Healthcare,223650.73,Wallet,Ahmedabad,Failed
+TXN100272,2026-06-19 06:29:00,ACC1039,Travel,1264.84,Credit Card,Pune,Pending
+TXN100458,2026-06-19 12:01:00,ACC1027,Food & Dining,3135.79,UPI,Bengaluru,Completed
+TXN100257,2026-06-19 13:36:00,ACC1042,Entertainment,654.49,Credit Card,Chennai,Completed
+TXN100133,2026-06-19 15:34:00,ACC1004,Shopping,1666.78,Wallet,Bengaluru,Completed
+TXN100158,2026-06-19 22:26:00,ACC1003,Food & Dining,503.71,Net Banking,Hyderabad,Completed
+TXN100480,2026-06-20 06:31:00,ACC1045,Food & Dining,5328.99,Net Banking,Hyderabad,Completed
+TXN100029,2026-06-20 22:13:00,ACC1077,Entertainment,1505.32,Wallet,Ahmedabad,Completed
+TXN100360,2026-06-21 08:19:00,ACC1040,Transfer,1713.4,Debit Card,Pune,Failed
+TXN100492,2026-06-21 13:12:00,ACC1025,Travel,3394.46,Credit Card,Kolkata,Completed
+TXN100345,2026-06-21 17:35:00,ACC1011,Entertainment,2121.98,Debit Card,Hyderabad,Completed
+TXN100216,2026-06-21 21:20:00,ACC1019,Shopping,157418.01,Net Banking,Ahmedabad,Completed
+TXN100330,2026-06-22 01:06:00,ACC1011,Travel,3830.89,Wallet,Ahmedabad,Pending
+TXN100139,2026-06-22 04:55:00,ACC1032,Travel,2656.94,Net Banking,Mumbai,Completed
+TXN100413,2026-06-22 08:26:00,ACC1011,Shopping,229110.83,UPI,Ahmedabad,Completed
+TXN100045,2026-06-22 21:51:00,ACC1055,Bills,4026.06,Credit Card,Kolkata,Completed
+TXN100340,2026-06-22 22:56:00,ACC1003,Travel,443.84,Wallet,Kolkata,Pending
+TXN100091,2026-06-23 15:26:00,ACC1070,Food & Dining,130975.41,Net Banking,Mumbai,Completed
+TXN100438,2026-06-23 15:55:00,ACC1026,Travel,552.36,UPI,Hyderabad,Pending
+TXN100438,2026-06-23 15:55:00,ACC1026,Travel,552.36,UPI,Hyderabad,Pending
+TXN100363,2026-06-23 17:11:00,ACC1027,Shopping,1864.56,Net Banking,Mumbai,Failed
+TXN100460,2026-06-23 17:45:00,ACC1027,Transfer,2076.51,Net Banking,Kolkata,Failed
+TXN100460,2026-06-23 17:45:00,ACC1027,Transfer,2076.51,Net Banking,Kolkata,Failed
+TXN100127,2026-06-24 00:39:00,ACC1061,Entertainment,12724.01,Debit Card,Delhi,Completed
+TXN100186,2026-06-24 11:47:00,ACC1058,Healthcare,6301.35,Net Banking,Bengaluru,Pending
+TXN100440,2026-06-24 11:48:00,ACC1062,Transfer,1458.54,Credit Card,Hyderabad,Completed
+TXN100459,2026-06-25 00:24:00,ACC1067,Travel,944.77,Wallet,Pune,Failed
+TXN100289,2026-06-25 02:18:00,ACC1042,Entertainment,1801.67,Net Banking,Pune,Completed
+TXN100306,2026-06-25 03:14:00,ACC1036,Travel,372.13,UPI,Hyderabad,Failed
+TXN100234,2026-06-25 03:26:00,ACC1044,Food & Dining,931.73,UPI,Kolkata,Completed
+TXN100144,2026-06-25 11:02:00,ACC1058,Transfer,3336.21,Debit Card,Hyderabad,Failed
+TXN100040,2026-06-25 20:13:00,ACC1027,Transfer,1525.86,Net Banking,Ahmedabad,Completed
+TXN100473,2026-06-25 20:17:00,ACC1045,Transfer,1070.19,UPI,Delhi,Completed
+TXN100071,2026-06-25 22:40:00,ACC1003,Travel,764.89,Wallet,Hyderabad,Completed
+TXN100435,2026-06-26 03:32:00,ACC1042,Shopping,470.93,Debit Card,Chennai,Completed
+TXN100467,2026-06-26 10:31:00,ACC1037,Healthcare,631.11,Debit Card,Hyderabad,Completed
+TXN100088,2026-06-26 17:45:00,ACC1073,Food & Dining,1370.65,Debit Card,Hyderabad,Completed
+TXN100282,2026-06-26 19:17:00,ACC1058,Travel,475.53,UPI,Delhi,Failed
+TXN100009,2026-06-26 19:54:00,ACC1003,Bills,1287.18,Net Banking,Pune,Failed
+TXN100320,2026-06-27 01:04:00,ACC1050,Food & Dining,1266.93,Net Banking,Hyderabad,Failed
+TXN100112,2026-06-27 10:04:00,ACC1058,Healthcare,1059.89,Net Banking,Chennai,Failed
+TXN100370,2026-06-27 15:20:00,ACC1042,Shopping,1027.63,UPI,Ahmedabad,Completed
+TXN100385,2026-06-27 17:07:00,ACC1078,Entertainment,1335.42,Net Banking,Hyderabad,Pending
+TXN100264,2026-06-27 19:43:00,ACC1075,Shopping,2448.06,Wallet,Hyderabad,Failed
+TXN100131,2026-06-27 20:20:00,ACC1001,Shopping,633.14,Debit Card,Pune,Failed
+TXN100109,2026-06-28 03:39:00,ACC1059,Shopping,178788.91,Credit Card,Mumbai,Completed
+TXN100245,2026-06-28 07:53:00,ACC1027,Food & Dining,163906.43,Credit Card,Hyderabad,Failed
+TXN100324,2026-06-28 08:24:00,ACC1011,Entertainment,3973.52,Debit Card,Delhi,Completed
+TXN100126,2026-06-28 10:24:00,ACC1038,Entertainment,645.11,UPI,Pune,Completed
+TXN100418,2026-06-28 15:10:00,ACC1007,Shopping,437.35,Net Banking,Ahmedabad,Completed
+TXN100094,2026-06-29 01:17:00,ACC1005,Travel,3030.07,Wallet,Hyderabad,Completed
+TXN100082,2026-06-29 07:17:00,ACC1073,Food & Dining,875.09,Credit Card,Hyderabad,Completed
+TXN100423,2026-06-29 07:24:00,ACC1035,Healthcare,100786.89,Credit Card,Kolkata,Failed
+TXN100117,2026-06-29 07:34:00,ACC1058,Food & Dining,1231.88,UPI,Bengaluru,Pending
+TXN100400,2026-06-29 08:18:00,ACC1006,Healthcare,11783.34,Wallet,Mumbai,Failed
+TXN100015,2026-06-29 12:50:00,ACC1003,Bills,807.12,Debit Card,Chennai,Completed
+TXN100050,2026-06-29 21:26:00,ACC1042,Travel,2453.79,Debit Card,Kolkata,Pending
+TXN100295,2026-06-30 05:47:00,ACC1058,Food & Dining,616.97,Debit Card,Ahmedabad,Completed
+TXN100197,2026-06-30 13:17:00,ACC1068,Bills,1532.29,Credit Card,Chennai,Completed
+TXN100351,2026-06-30 14:42:00,ACC1058,Healthcare,2217.28,Net Banking,Ahmedabad,Completed
+TXN100207,2026-06-30 19:41:00,ACC1045,Entertainment,1169.21,Wallet,Delhi,Completed
+TXN100059,2026-06-30 20:41:00,ACC1003,Transfer,3730.8,Credit Card,Mumbai,Pending
+TXN100348,2026-06-30 20:56:00,ACC1044,Shopping,1317.54,Wallet,Pune,Completed
+TXN100433,2026-07-01 04:44:00,ACC1051,Transfer,1010.79,Net Banking,Kolkata,Completed
+TXN100436,2026-07-01 05:25:00,ACC1034,Travel,681.14,UPI,Delhi,Completed
+TXN100194,2026-07-01 06:25:00,ACC1001,Travel,2583.64,UPI,Pune,Completed
+TXN100397,2026-07-01 14:24:00,ACC1040,Shopping,1339.09,Credit Card,Hyderabad,Completed
+TXN100012,2026-07-01 15:31:00,ACC1020,Travel,458.04,Credit Card,Kolkata,Completed
+TXN100214,2026-07-01 17:42:00,ACC1032,Food & Dining,3504.61,Credit Card,Kolkata,Completed
+TXN100478,2026-07-02 06:17:00,ACC1009,Bills,3324.78,UPI,Bengaluru,Completed
+TXN100445,2026-07-02 09:56:00,ACC1011,Healthcare,1861.53,Credit Card,Chennai,Completed
+TXN100401,2026-07-02 14:45:00,ACC1027,Bills,360.05,Credit Card,Kolkata,Failed
+TXN100425,2026-07-02 17:54:00,ACC1003,Healthcare,5795.07,Net Banking,Kolkata,Failed
+TXN100084,2026-07-02 18:38:00,ACC1027,Travel,1341.29,Credit Card,Mumbai,Completed
+TXN100393,2026-07-03 02:14:00,ACC1019,Shopping,2580.75,Net Banking,Delhi,Pending
+TXN100244,2026-07-03 08:16:00,ACC1042,Shopping,813.09,Debit Card,Chennai,Failed
+TXN100267,2026-07-03 10:37:00,ACC1050,Shopping,3555.46,Wallet,Hyderabad,Completed
+TXN100332,2026-07-03 12:43:00,ACC1037,Transfer,1283.79,Credit Card,Bengaluru,Completed
+TXN100375,2026-07-03 14:55:00,ACC1041,Shopping,3093.22,Net Banking,Delhi,Pending
+TXN100437,2026-07-03 18:42:00,ACC1028,Food & Dining,2940.63,UPI,Ahmedabad,Pending
+TXN100326,2026-07-03 19:34:00,ACC1011,Shopping,4176.65,Credit Card,Mumbai,Failed
+TXN100407,2026-07-03 20:53:00,ACC1050,Healthcare,2987.41,Wallet,Mumbai,Completed
+TXN100123,2026-07-04 11:10:00,ACC1058,Shopping,2730.26,UPI,Kolkata,Completed
+TXN100368,2026-07-04 13:54:00,ACC1007,Shopping,2129.1,UPI,Mumbai,Pending
+TXN100415,2026-07-04 14:44:00,ACC1029,Healthcare,337.2,Debit Card,Delhi,Failed
+TXN100066,2026-07-04 17:15:00,ACC1011,Shopping,3949.43,Credit Card,Delhi,Completed
+TXN100206,2026-07-04 23:25:00,ACC1032,Transfer,2406.23,Wallet,Hyderabad,Failed
+TXN100116,2026-07-05 00:24:00,ACC1027,Bills,1110.49,UPI,Delhi,Failed
+TXN100198,2026-07-05 02:00:00,ACC1040,Healthcare,573.08,Wallet,Ahmedabad,Completed
+TXN100414,2026-07-05 06:57:00,ACC1023,Bills,367.03,Debit Card,Chennai,Pending
+TXN100414,2026-07-05 06:57:00,ACC1023,Bills,367.03,Debit Card,Chennai,Pending
+TXN100489,2026-07-05 12:09:00,ACC1042,Transfer,186348.96,Debit Card,Delhi,Pending
+TXN100301,2026-07-05 14:11:00,ACC1072,Transfer,2045.15,Wallet,Chennai,Completed
+TXN100172,2026-07-05 17:35:00,ACC1027,Entertainment,5327.74,Net Banking,Pune,Pending
+TXN100381,2026-07-05 19:08:00,ACC1027,Bills,2292.99,Wallet,Pune,Completed
+TXN100455,2026-07-05 22:56:00,ACC1060,Bills,3076.21,Credit Card,Chennai,Completed
+TXN100170,2026-07-06 03:56:00,ACC1078,Food & Dining,1936.15,Wallet,Pune,Completed
+TXN100270,2026-07-06 07:39:00,ACC1006,Entertainment,5809.23,Credit Card,Delhi,Completed
+TXN100491,2026-07-06 09:53:00,ACC1067,Travel,13404.83,Net Banking,Mumbai,Pending
+TXN100243,2026-07-06 10:05:00,ACC1010,Entertainment,924.36,Debit Card,Chennai,Completed
+TXN100113,2026-07-06 13:34:00,ACC1059,Travel,3300.01,Debit Card,Bengaluru,Completed
+TXN100353,2026-07-06 16:47:00,ACC1016,Travel,1112.5,Wallet,Bengaluru,Failed
+TXN100298,2026-07-06 21:03:00,ACC1065,Transfer,1895.08,Wallet,Bengaluru,Pending
+TXN100466,2026-07-07 00:45:00,ACC1058,Healthcare,478.59,Net Banking,Kolkata,Pending
+TXN100285,2026-07-07 04:03:00,ACC1012,Transfer,2068.12,Debit Card,Hyderabad,Completed
+TXN100136,2026-07-07 06:51:00,ACC1074,Healthcare,1437.56,Credit Card,Hyderabad,Pending
+TXN100142,2026-07-07 06:56:00,ACC1050,Transfer,162978.11,Net Banking,Ahmedabad,Completed
+TXN100276,2026-07-07 13:42:00,ACC1042,Food & Dining,993.17,Credit Card,Kolkata,Failed
+TXN100248,2026-07-07 14:53:00,ACC1063,Travel,531.11,UPI,Pune,Completed
+TXN100159,2026-07-07 19:12:00,ACC1053,Entertainment,1522.7,UPI,Mumbai,Failed
+TXN100081,2026-07-07 19:15:00,ACC1042,Transfer,2152.72,Wallet,Delhi,Failed
+TXN100366,2026-07-08 01:11:00,ACC1012,Transfer,215277.94,Net Banking,Hyderabad,Completed
+TXN100027,2026-07-08 07:07:00,ACC1046,Food & Dining,1093.39,UPI,Ahmedabad,Pending
+TXN100416,2026-07-08 12:45:00,ACC1038,Travel,3767.2,UPI,Delhi,Pending
+TXN100449,2026-07-08 16:00:00,ACC1063,Food & Dining,2485.48,Credit Card,Delhi,Completed
+TXN100175,2026-07-08 16:28:00,ACC1042,Shopping,1425.75,Credit Card,Delhi,Pending
+TXN100242,2026-07-08 18:24:00,ACC1078,Entertainment,2027.53,Wallet,Pune,Failed
+TXN100486,2026-07-09 00:28:00,ACC1016,Travel,1056.79,Debit Card,Mumbai,Pending
+TXN100006,2026-07-09 02:46:00,ACC1027,Healthcare,2058.18,Net Banking,Mumbai,Completed
+TXN100221,2026-07-09 04:56:00,ACC1003,Travel,2324.92,UPI,Bengaluru,Completed
+TXN100221,2026-07-09 04:56:00,ACC1003,Travel,2324.92,UPI,Bengaluru,Completed
+TXN100098,2026-07-09 14:31:00,ACC1003,Travel,2985.5,UPI,Mumbai,Failed
+TXN100266,2026-07-09 16:00:00,ACC1014,Transfer,2880.64,Net Banking,Hyderabad,Completed
+TXN100187,2026-07-09 18:20:00,ACC1042,Travel,1132.03,Wallet,Bengaluru,Pending
+TXN100182,2026-07-09 22:04:00,ACC1003,Shopping,9179.32,Credit Card,Mumbai,Completed
+TXN100303,2026-07-10 01:30:00,ACC1017,Shopping,1831.39,Debit Card,Delhi,Pending
+TXN100431,2026-07-10 05:31:00,ACC1060,Entertainment,3541.57,Wallet,Bengaluru,Pending
+TXN100426,2026-07-10 11:15:00,ACC1025,Food & Dining,98764.69,Credit Card,Chennai,Completed
+TXN100043,2026-07-10 12:06:00,ACC1016,Food & Dining,2826.71,Net Banking,Bengaluru,Pending
+TXN100474,2026-07-10 13:18:00,ACC1007,Food & Dining,6321.76,Credit Card,Kolkata,Completed
+TXN100224,2026-07-11 07:33:00,ACC1053,Bills,955.28,Wallet,Delhi,Completed
+TXN100391,2026-07-11 21:11:00,ACC1011,Travel,2359.1,UPI,Delhi,Failed
+TXN100358,2026-07-12 00:00:00,ACC1006,Entertainment,8428.24,Net Banking,Kolkata,Completed
+TXN100037,2026-07-12 01:50:00,ACC1076,Bills,416.96,UPI,Pune,Pending
+TXN100019,2026-07-12 11:35:00,ACC1039,Entertainment,1703.17,Credit Card,Bengaluru,Completed
+TXN100013,2026-07-12 20:23:00,ACC1042,Travel,2722.5,Net Banking,Ahmedabad,Completed
+TXN100013,2026-07-12 20:23:00,ACC1042,Travel,2722.5,Net Banking,Ahmedabad,Completed
+TXN100329,2026-07-13 03:53:00,ACC1033,Bills,291.32,Net Banking,Pune,Failed
+TXN100237,2026-07-13 10:07:00,ACC1065,Healthcare,1463.22,Credit Card,Bengaluru,Completed
+TXN100380,2026-07-13 10:55:00,ACC1019,Transfer,4723.07,UPI,Ahmedabad,Pending
+TXN100114,2026-07-13 12:28:00,ACC1079,Entertainment,2370.79,Credit Card,Hyderabad,Pending
+TXN100367,2026-07-13 13:07:00,ACC1024,Shopping,1720.78,Net Banking,Pune,Completed
+TXN100218,2026-07-13 14:53:00,ACC1033,Transfer,5738.58,Debit Card,Bengaluru,Failed
+TXN100346,2026-07-13 15:54:00,ACC1027,Entertainment,1888.49,Credit Card,Chennai,Completed
+TXN100129,2026-07-13 22:58:00,ACC1069,Healthcare,143293.15,Wallet,Hyderabad,Completed
+TXN100246,2026-07-14 01:23:00,ACC1076,Transfer,6460.18,UPI,Ahmedabad,Failed
+TXN100120,2026-07-14 11:12:00,ACC1065,Healthcare,4149.69,Debit Card,Mumbai,Completed
+TXN100188,2026-07-14 11:43:00,ACC1076,Healthcare,6540.52,Net Banking,Kolkata,Pending
+TXN100020,2026-07-14 17:15:00,ACC1058,Entertainment,187428.35,UPI,Ahmedabad,Failed
+TXN100439,2026-07-14 21:28:00,ACC1072,Healthcare,1406.32,Credit Card,Bengaluru,Failed
+TXN100149,2026-07-14 23:35:00,ACC1042,Shopping,637.58,Net Banking,Hyderabad,Pending
+TXN100107,2026-07-15 05:44:00,ACC1067,Entertainment,1135.04,Credit Card,Hyderabad,Completed
+TXN100274,2026-07-15 06:14:00,ACC1039,Bills,1843.35,Wallet,Delhi,Completed
+TXN100196,2026-07-15 11:24:00,ACC1003,Shopping,1042.74,UPI,Hyderabad,Completed
+TXN100134,2026-07-15 19:05:00,ACC1023,Transfer,972.65,Net Banking,Bengaluru,Completed
+TXN100017,2026-07-16 00:20:00,ACC1027,Entertainment,3107.23,Debit Card,Bengaluru,Completed
+TXN100021,2026-07-16 02:05:00,ACC1012,Healthcare,3437.43,Credit Card,Pune,Completed
+TXN100249,2026-07-16 08:38:00,ACC1034,Bills,1051.42,Net Banking,Delhi,Completed
+TXN100249,2026-07-16 08:38:00,ACC1034,Bills,1051.42,Net Banking,Delhi,Completed
+TXN100087,2026-07-16 14:57:00,ACC1042,Shopping,1851.08,Credit Card,Hyderabad,Completed
+TXN100038,2026-07-16 15:25:00,ACC1062,Bills,1873.8,Wallet,Pune,Pending
+TXN100450,2026-07-16 15:26:00,ACC1009,Healthcare,471.16,Debit Card,Chennai,Pending
+TXN100287,2026-07-16 15:33:00,ACC1001,Bills,1760.66,Credit Card,Bengaluru,Failed
+TXN100463,2026-07-16 21:45:00,ACC1027,Healthcare,1668.84,Net Banking,Kolkata,Completed
+TXN100233,2026-07-16 23:19:00,ACC1056,Healthcare,206737.19,Debit Card,Hyderabad,Completed
+TXN100448,2026-07-16 23:55:00,ACC1042,Travel,238533.79,Credit Card,Ahmedabad,Pending
+TXN100479,2026-07-17 01:20:00,ACC1058,Entertainment,261.08,Credit Card,Kolkata,Pending
+TXN100077,2026-07-17 05:17:00,ACC1011,Shopping,2552.54,Net Banking,Bengaluru,Pending
+TXN100354,2026-07-17 07:30:00,ACC1054,Travel,534.85,Credit Card,Kolkata,Completed
+TXN100044,2026-07-17 09:23:00,ACC1042,Shopping,69592.9,Net Banking,Pune,Completed
+TXN100217,2026-07-17 10:02:00,ACC1011,Healthcare,1739.4,Wallet,Delhi,Completed
+TXN100217,2026-07-17 10:02:00,ACC1011,Healthcare,1739.4,Wallet,Delhi,Completed
+TXN100073,2026-07-17 14:41:00,ACC1045,Transfer,988.7,Net Banking,Mumbai,Completed
+TXN100253,2026-07-17 15:32:00,ACC1065,Shopping,966.6,Credit Card,Hyderabad,Completed
+TXN100183,2026-07-17 16:14:00,ACC1007,Shopping,4178.85,UPI,Bengaluru,Completed
+TXN100016,2026-07-17 16:21:00,ACC1061,Travel,973.75,Wallet,Bengaluru,Pending
+TXN100311,2026-07-17 17:10:00,ACC1008,Transfer,1189.57,Debit Card,Ahmedabad,Completed
+TXN100042,2026-07-17 19:55:00,ACC1011,Healthcare,4927.66,Net Banking,Hyderabad,Pending
+TXN100121,2026-07-17 22:03:00,ACC1030,Shopping,777.85,Wallet,Bengaluru,Completed
+TXN100283,2026-07-18 03:03:00,ACC1045,Entertainment,2447.31,Net Banking,Ahmedabad,Completed
+TXN100022,2026-07-18 04:49:00,ACC1045,Healthcare,133266.57,Debit Card,Delhi,Failed
+TXN100062,2026-07-18 07:48:00,ACC1034,Entertainment,2529.39,UPI,Kolkata,Completed
+TXN100374,2026-07-18 13:37:00,ACC1004,Food & Dining,1458.15,Credit Card,Delhi,Completed
+TXN100240,2026-07-18 19:20:00,ACC1027,Transfer,6969.88,UPI,Pune,Pending
+TXN100048,2026-07-18 23:32:00,ACC1075,Shopping,1008.58,Wallet,Kolkata,Completed
+TXN100204,2026-07-19 00:43:00,ACC1046,Bills,215490.22,UPI,Pune,Completed
+TXN100074,2026-07-19 05:59:00,ACC1037,Healthcare,1911.96,UPI,Pune,Pending
+TXN100398,2026-07-19 16:11:00,ACC1028,Healthcare,2446.07,Debit Card,Hyderabad,Completed
+TXN100396,2026-07-19 19:11:00,ACC1003,Food & Dining,656.09,Debit Card,Bengaluru,Completed
+TXN100275,2026-07-19 22:27:00,ACC1064,Food & Dining,1116.39,Wallet,Ahmedabad,Completed
+TXN100153,2026-07-20 00:32:00,ACC1007,Food & Dining,2962.14,Credit Card,Kolkata,Completed
+TXN100086,2026-07-20 10:51:00,ACC1033,Bills,740.3,Net Banking,Bengaluru,Pending
+TXN100316,2026-07-20 12:15:00,ACC1011,Food & Dining,3364.99,Net Banking,Kolkata,Completed
+TXN100181,2026-07-20 22:30:00,ACC1034,Transfer,1388.25,Net Banking,Kolkata,Pending
+TXN100030,2026-07-20 22:52:00,ACC1039,Food & Dining,2470.6,UPI,Hyderabad,Completed
+TXN100305,2026-07-21 01:22:00,ACC1077,Entertainment,3612.96,Net Banking,Delhi,Pending
+TXN100085,2026-07-21 06:49:00,ACC1047,Healthcare,1016.47,Net Banking,Pune,Failed
+TXN100347,2026-07-21 11:34:00,ACC1035,Transfer,7020.74,Debit Card,Bengaluru,Pending
+TXN100469,2026-07-21 16:31:00,ACC1069,Bills,450.94,UPI,Mumbai,Pending
+TXN100235,2026-07-22 01:30:00,ACC1028,Travel,1460.26,Net Banking,Delhi,Completed
+TXN100323,2026-07-22 03:36:00,ACC1003,Bills,562.37,Net Banking,Kolkata,Completed
+TXN100430,2026-07-22 05:04:00,ACC1023,Healthcare,2427.72,Wallet,Bengaluru,Completed
+TXN100058,2026-07-22 08:49:00,ACC1003,Entertainment,1693.61,Wallet,Pune,Completed
+TXN100102,2026-07-22 10:25:00,ACC1060,Travel,8236.42,UPI,Hyderabad,Completed
+TXN100409,2026-07-22 14:10:00,ACC1042,Entertainment,1864.71,Wallet,Pune,Pending
+TXN100424,2026-07-22 18:23:00,ACC1040,Shopping,443.55,Wallet,Delhi,Pending
+TXN100190,2026-07-23 09:30:00,ACC1019,Entertainment,10881.8,UPI,Bengaluru,Pending
+TXN100211,2026-07-23 14:46:00,ACC1019,Healthcare,2998.79,Wallet,Pune,Completed
+TXN100410,2026-07-23 22:13:00,ACC1042,Entertainment,1155.33,Debit Card,Pune,Pending
+TXN100060,2026-07-24 03:52:00,ACC1064,Transfer,1846.59,Credit Card,Kolkata,Completed
+TXN100005,2026-07-24 08:20:00,ACC1025,Travel,1393.21,Wallet,Mumbai,Pending
+TXN100078,2026-07-24 14:29:00,ACC1003,Food & Dining,1060.48,Debit Card,Chennai,Completed
+TXN100337,2026-07-24 17:31:00,ACC1003,Shopping,2858.89,Wallet,Bengaluru,Completed
+TXN100145,2026-07-24 17:33:00,ACC1058,Transfer,413.96,Credit Card,Kolkata,Completed
+TXN100378,2026-07-24 19:45:00,ACC1030,Travel,1994.2,Credit Card,Delhi,Completed
+TXN100483,2026-07-25 05:09:00,ACC1058,Food & Dining,184258.88,UPI,Delhi,Failed
+TXN100140,2026-07-25 14:03:00,ACC1020,Entertainment,497.99,Debit Card,Mumbai,Pending
+TXN100080,2026-07-25 19:53:00,ACC1002,Shopping,5732.15,Net Banking,Chennai,Completed
+TXN100157,2026-07-26 01:49:00,ACC1005,Shopping,1699.49,Net Banking,Bengaluru,Completed
+TXN100146,2026-07-26 06:15:00,ACC1004,Entertainment,2073.86,Wallet,Kolkata,Failed
+TXN100406,2026-07-26 11:49:00,ACC1011,Shopping,179222.45,Credit Card,Pune,Completed
+TXN100052,2026-07-26 13:58:00,ACC1029,Entertainment,792.48,Wallet,Chennai,Completed
+TXN100070,2026-07-26 14:37:00,ACC1046,Healthcare,1128.22,Credit Card,Delhi,Completed
+TXN100179,2026-07-26 19:16:00,ACC1036,Food & Dining,4658.22,UPI,Hyderabad,Completed
+TXN100179,2026-07-26 19:16:00,ACC1036,Food & Dining,4658.22,UPI,Hyderabad,Completed
+TXN100291,2026-07-26 23:43:00,ACC1030,Shopping,1162.32,Credit Card,Chennai,Completed
+TXN100189,2026-07-27 18:14:00,ACC1027,Transfer,3866.35,Debit Card,Bengaluru,Completed
+TXN100371,2026-07-27 22:58:00,ACC1051,Shopping,799.19,Net Banking,Bengaluru,Failed
+TXN100475,2026-07-27 23:54:00,ACC1073,Shopping,7438.53,UPI,Hyderabad,Completed
+TXN100008,2026-07-28 05:06:00,ACC1042,Travel,369.05,Wallet,Hyderabad,Completed
+TXN100103,2026-07-28 11:58:00,ACC1019,Entertainment,905.15,Credit Card,Pune,Pending
+TXN100160,2026-07-28 14:28:00,ACC1003,Entertainment,4216.38,UPI,Delhi,Failed
+TXN100434,2026-07-28 15:09:00,ACC1058,Healthcare,2710.89,Credit Card,Pune,Completed
+TXN100026,2026-07-28 17:04:00,ACC1041,Bills,2682.52,Debit Card,Ahmedabad,Completed
+TXN100247,2026-07-28 18:51:00,ACC1063,Bills,5597.58,Wallet,Delhi,Pending
+TXN100312,2026-07-29 04:03:00,ACC1008,Healthcare,1326.67,Net Banking,Delhi,Completed
+TXN100315,2026-07-29 05:59:00,ACC1047,Shopping,872.81,UPI,Kolkata,Pending
+TXN100034,2026-07-29 15:58:00,ACC1031,Bills,2711.23,UPI,Hyderabad,Completed
+TXN100148,2026-07-29 18:51:00,ACC1003,Food & Dining,1487.42,Credit Card,Delhi,Completed
+TXN100039,2026-07-29 18:54:00,ACC1053,Bills,1632.05,Net Banking,Bengaluru,Completed
+TXN100314,2026-07-29 22:56:00,ACC1009,Transfer,2083.74,Debit Card,Chennai,Completed
+TXN100028,2026-07-30 05:45:00,ACC1056,Transfer,1172.98,Debit Card,Chennai,Failed
+TXN100457,2026-07-30 05:54:00,ACC1039,Transfer,2035.92,Debit Card,Delhi,Completed
+TXN100254,2026-07-30 10:56:00,ACC1060,Food & Dining,7791.8,Net Banking,Delhi,Completed
+TXN100328,2026-07-30 17:01:00,ACC1007,Transfer,3294.03,UPI,Chennai,Completed
+TXN100296,2026-07-30 20:42:00,ACC1027,Bills,1569.79,UPI,Hyderabad,Completed
+TXN100395,2026-07-31 00:16:00,ACC1069,Shopping,2311.74,UPI,Ahmedabad,Completed
+TXN100108,2026-07-31 06:19:00,ACC1057,Transfer,1494.59,Credit Card,Ahmedabad,Pending
+TXN100105,2026-07-31 06:47:00,ACC1053,Healthcare,4945.95,Wallet,Ahmedabad,Completed
+TXN100389,2026-07-31 07:11:00,ACC1011,Transfer,701.6,Credit Card,Chennai,Failed
+TXN100167,2026-07-31 10:54:00,ACC1027,Healthcare,2545.34,Net Banking,Delhi,Completed
+TXN100269,2026-07-31 11:32:00,ACC1027,Shopping,1438.04,Net Banking,Mumbai,Completed
+TXN100053,2026-07-31 15:13:00,ACC1016,Shopping,3568.43,Wallet,Pune,Pending
+TXN100273,2026-07-31 17:35:00,ACC1058,Entertainment,1140.47,Wallet,Pune,Completed
+TXN100010,2026-07-31 18:18:00,ACC1033,Bills,2353.48,Wallet,Hyderabad,Completed
+TXN100125,2026-07-31 18:58:00,ACC1069,Bills,2840.94,Wallet,Ahmedabad,Failed
+TXN100496,2026-07-31 19:05:00,ACC1008,Transfer,862.96,Net Banking,Mumbai,Completed
+TXN100168,2026-08-01 00:57:00,ACC1060,Travel,1774.74,Debit Card,Chennai,Failed
+TXN100177,2026-08-01 01:39:00,ACC1070,Healthcare,69503.53,Credit Card,Delhi,Completed
+TXN100317,2026-08-01 12:54:00,ACC1026,Transfer,1463.97,Wallet,Ahmedabad,Completed
+TXN100495,2026-08-01 17:31:00,ACC1063,Bills,3447.56,UPI,Mumbai,Pending
+TXN100288,2026-08-01 20:05:00,ACC1026,Shopping,101891.9,Net Banking,Ahmedabad,Failed
+TXN100143,2026-08-01 21:35:00,ACC1058,Shopping,737.83,Debit Card,Ahmedabad,Pending
+TXN100251,2026-08-02 03:14:00,ACC1018,Entertainment,1287.42,Credit Card,Delhi,Completed
+TXN100075,2026-08-02 03:15:00,ACC1064,Shopping,1440.95,Debit Card,Pune,Pending
+TXN100097,2026-08-02 08:29:00,ACC1051,Shopping,992.51,UPI,Ahmedabad,Completed
+TXN100099,2026-08-02 08:52:00,ACC1023,Travel,3574.28,UPI,Pune,Completed
+TXN100498,2026-08-02 10:32:00,ACC1058,Shopping,3500.42,Wallet,Bengaluru,Pending
+TXN100263,2026-08-02 13:24:00,ACC1008,Entertainment,452.85,Debit Card,Delhi,Failed
+TXN100384,2026-08-02 16:32:00,ACC1027,Entertainment,2956.61,Wallet,Chennai,Completed
+TXN100334,2026-08-03 00:15:00,ACC1003,Travel,632.2,Wallet,Hyderabad,Completed
+TXN100164,2026-08-03 04:22:00,ACC1003,Shopping,540.07,Credit Card,Kolkata,Failed
+TXN100095,2026-08-03 11:07:00,ACC1001,Food & Dining,2811.34,Credit Card,Delhi,Failed
+TXN100388,2026-08-03 11:32:00,ACC1005,Travel,201136.75,Credit Card,Chennai,Completed
+TXN100300,2026-08-03 19:46:00,ACC1010,Entertainment,1186.04,Credit Card,Delhi,Completed
+TXN100072,2026-08-03 22:27:00,ACC1027,Healthcare,2109.58,Wallet,Mumbai,Failed
+TXN100089,2026-08-03 22:53:00,ACC1027,Travel,1904.12,UPI,Delhi,Completed
+TXN100220,2026-08-04 10:27:00,ACC1042,Transfer,4691.72,Wallet,Bengaluru,Failed
+TXN100031,2026-08-04 14:16:00,ACC1023,Shopping,4252.85,Net Banking,Ahmedabad,Pending
+TXN100422,2026-08-04 16:59:00,ACC1011,Food & Dining,3126.38,UPI,Kolkata,Completed
+TXN100255,2026-08-04 18:24:00,ACC1079,Entertainment,1020.47,UPI,Pune,Pending
+TXN100294,2026-08-04 20:24:00,ACC1038,Entertainment,3115.53,Net Banking,Chennai,Completed
+TXN100191,2026-08-04 21:06:00,ACC1066,Shopping,1165.34,Wallet,Mumbai,Completed
+TXN100236,2026-08-04 23:17:00,ACC1072,Healthcare,800.24,Debit Card,Hyderabad,Completed
+TXN100383,2026-08-05 09:39:00,ACC1042,Travel,2397.17,UPI,Ahmedabad,Completed
+TXN100258,2026-08-05 10:09:00,ACC1058,Healthcare,200487.56,Wallet,Bengaluru,Completed
+TXN100421,2026-08-05 17:40:00,ACC1042,Healthcare,2000.71,UPI,Bengaluru,Completed
+TXN100093,2026-08-05 17:43:00,ACC1003,Food & Dining,1189.02,Credit Card,Hyderabad,Completed
+TXN100227,2026-08-05 20:56:00,ACC1060,Shopping,2692.01,Wallet,Chennai,Failed
+TXN100201,2026-08-05 23:23:00,ACC1042,Entertainment,19442.94,Net Banking,Bengaluru,Completed
+TXN100202,2026-08-06 03:39:00,ACC1076,Entertainment,1421.57,Debit Card,Pune,Completed
+TXN100307,2026-08-06 11:42:00,ACC1024,Food & Dining,3479.94,UPI,Bengaluru,Completed
+TXN100238,2026-08-06 13:19:00,ACC1003,Bills,5931.63,Credit Card,Kolkata,Completed
+TXN100051,2026-08-06 20:36:00,ACC1044,Transfer,1393.3,Net Banking,Chennai,Completed
+TXN100147,2026-08-06 21:54:00,ACC1036,Travel,1583.37,Wallet,Pune,Completed
+TXN100333,2026-08-07 02:01:00,ACC1052,Transfer,1591.19,Debit Card,Pune,Completed
+TXN100443,2026-08-07 04:32:00,ACC1056,Entertainment,989.16,Wallet,Chennai,Completed
+TXN100230,2026-08-07 17:04:00,ACC1070,Bills,213365.97,UPI,Kolkata,Completed
+TXN100417,2026-08-07 23:28:00,ACC1015,Food & Dining,1079.35,Wallet,Delhi,Completed
+TXN100154,2026-08-08 01:38:00,ACC1010,Food & Dining,3469.89,Credit Card,Kolkata,Pending
+TXN100231,2026-08-08 02:58:00,ACC1061,Travel,4539.24,Net Banking,Delhi,Completed
+TXN100277,2026-08-08 09:46:00,ACC1042,Transfer,1064.87,Net Banking,Kolkata,Pending
+TXN100161,2026-08-08 14:46:00,ACC1061,Travel,964.33,UPI,Kolkata,Pending
+TXN100090,2026-08-08 22:59:00,ACC1075,Entertainment,4226.42,Wallet,Bengaluru,Completed
+TXN100394,2026-08-09 02:42:00,ACC1011,Transfer,1038.77,Credit Card,Pune,Completed
+TXN100477,2026-08-09 05:53:00,ACC1025,Food & Dining,227.05,Net Banking,Chennai,Failed
+TXN100465,2026-08-09 13:59:00,ACC1021,Bills,639.32,Net Banking,Delhi,Completed
+TXN100465,2026-08-09 13:59:00,ACC1021,Bills,639.32,Net Banking,Delhi,Completed
+TXN100318,2026-08-09 22:09:00,ACC1069,Bills,1222.48,UPI,Hyderabad,Completed
+TXN100453,2026-08-10 07:59:00,ACC1011,Healthcare,1097.25,Net Banking,Hyderabad,Completed
+TXN100427,2026-08-11 11:46:00,ACC1009,Transfer,615.36,UPI,Ahmedabad,Failed
+TXN100259,2026-08-11 13:21:00,ACC1074,Shopping,1793.85,UPI,Delhi,Pending
+TXN100024,2026-08-11 18:35:00,ACC1003,Entertainment,4066.49,Wallet,Delhi,Completed
+TXN100002,2026-08-12 00:14:00,ACC1053,Bills,452.9,Net Banking,Ahmedabad,Completed
+TXN100341,2026-08-12 00:47:00,ACC1019,Entertainment,1875.77,Debit Card,Hyderabad,Pending
+TXN100464,2026-08-12 01:06:00,ACC1033,Healthcare,948.02,Wallet,Kolkata,Pending
+TXN100271,2026-08-12 06:55:00,ACC1050,Entertainment,10365.45,Debit Card,Chennai,Pending
+TXN100490,2026-08-12 10:10:00,ACC1058,Food & Dining,918.05,Debit Card,Kolkata,Completed
+TXN100135,2026-08-12 13:28:00,ACC1074,Entertainment,3462.61,Wallet,Delhi,Failed
+TXN100025,2026-08-12 17:24:00,ACC1040,Travel,1254.8,UPI,Kolkata,Completed
+TXN100485,2026-08-13 06:30:00,ACC1022,Entertainment,1141.3,Credit Card,Hyderabad,Completed
+TXN100111,2026-08-13 06:32:00,ACC1011,Transfer,4157.76,Wallet,Delhi,Failed
+TXN100484,2026-08-13 08:47:00,ACC1010,Food & Dining,1225.24,Debit Card,Delhi,Completed
+TXN100223,2026-08-13 11:50:00,ACC1078,Transfer,549.81,Debit Card,Bengaluru,Completed
+TXN100482,2026-08-13 12:24:00,ACC1068,Travel,6764.0,Net Banking,Hyderabad,Completed
+TXN100180,2026-08-13 12:38:00,ACC1001,Healthcare,8889.31,Debit Card,Chennai,Completed
+TXN100429,2026-08-13 14:23:00,ACC1078,Food & Dining,8638.26,UPI,Pune,Completed
+TXN100286,2026-08-13 16:01:00,ACC1009,Food & Dining,697.53,Wallet,Bengaluru,Failed
+TXN100284,2026-08-13 19:48:00,ACC1053,Food & Dining,299.69,Wallet,Pune,Completed
+TXN100481,2026-08-13 21:20:00,ACC1041,Healthcare,3892.74,Debit Card,Ahmedabad,Failed
+TXN100069,2026-08-13 23:30:00,ACC1044,Entertainment,1119.55,Wallet,Hyderabad,Completed
+TXN100308,2026-08-14 01:22:00,ACC1046,Bills,2151.55,Credit Card,Delhi,Completed
+TXN100308,2026-08-14 01:22:00,ACC1046,Bills,2151.55,Credit Card,Delhi,Completed
+TXN100032,2026-08-14 06:50:00,ACC1058,Shopping,1767.35,Debit Card,Bengaluru,Completed
+TXN100032,2026-08-14 06:50:00,ACC1058,Shopping,1767.35,Debit Card,Bengaluru,Completed
+TXN100174,2026-08-14 08:19:00,ACC1058,Bills,2202.98,Debit Card,Hyderabad,Completed
+TXN100399,2026-08-14 14:50:00,ACC1078,Shopping,1226.09,Net Banking,Delhi,Pending
+TXN100419,2026-08-14 14:55:00,ACC1044,Transfer,3776.63,UPI,Chennai,Failed
+TXN100335,2026-08-14 15:52:00,ACC1058,Travel,2099.94,Debit Card,Delhi,Completed
+TXN100365,2026-08-14 23:01:00,ACC1023,Food & Dining,237890.76,Net Banking,Chennai,Pending
+TXN100152,2026-08-15 01:06:00,ACC1026,Healthcare,4324.81,UPI,Ahmedabad,Completed
+TXN100057,2026-08-15 09:17:00,ACC1007,Shopping,1687.67,Wallet,Hyderabad,Completed
+TXN100056,2026-08-15 14:19:00,ACC1001,Healthcare,2542.38,Debit Card,Hyderabad,Failed
+TXN100079,2026-08-15 18:29:00,ACC1047,Bills,2727.42,Wallet,Hyderabad,Failed
+TXN100195,2026-08-15 20:25:00,ACC1076,Travel,2208.79,Net Banking,Pune,Completed
+TXN100199,2026-08-16 01:56:00,ACC1079,Food & Dining,4267.38,Wallet,Pune,Completed
+TXN100428,2026-08-16 02:56:00,ACC1003,Entertainment,722.02,UPI,Bengaluru,Failed
+TXN100278,2026-08-16 05:11:00,ACC1067,Transfer,6454.96,Net Banking,Kolkata,Completed
+TXN100297,2026-08-16 07:33:00,ACC1045,Healthcare,1914.6,Debit Card,Chennai,Pending
+TXN100250,2026-08-16 08:33:00,ACC1028,Food & Dining,2313.5,Net Banking,Ahmedabad,Pending
+TXN100290,2026-08-16 10:38:00,ACC1027,Food & Dining,1193.28,Credit Card,Mumbai,Failed
+TXN100004,2026-08-16 13:48:00,ACC1068,Food & Dining,858.49,Net Banking,Ahmedabad,Completed
+TXN100068,2026-08-16 17:50:00,ACC1027,Healthcare,982.12,Wallet,Delhi,Completed
+TXN100499,2026-08-16 19:47:00,ACC1010,Transfer,150.0,UPI,Chennai,Completed
+TXN100176,2026-08-16 20:47:00,ACC1029,Healthcare,1839.04,UPI,Kolkata,Failed
+TXN100163,2026-08-17 01:49:00,ACC1003,Bills,1760.35,Credit Card,Kolkata,Completed
+TXN100468,2026-08-17 05:37:00,ACC1014,Shopping,249289.83,Wallet,Mumbai,Failed
+TXN100338,2026-08-17 09:52:00,ACC1066,Travel,20202.74,UPI,Hyderabad,Completed
+TXN100261,2026-08-17 21:41:00,ACC1015,Travel,576.1,Debit Card,Pune,Failed
+TXN100203,2026-08-17 22:35:00,ACC1039,Travel,890.96,Debit Card,Kolkata,Pending
+TXN100382,2026-08-17 23:36:00,ACC1047,Bills,700.98,Net Banking,Bengaluru,Completed
+TXN100373,2026-08-18 02:36:00,ACC1037,Travel,2496.54,Net Banking,Mumbai,Completed
+TXN100304,2026-08-18 03:47:00,ACC1033,Healthcare,2452.23,Wallet,Chennai,Failed
+TXN100325,2026-08-18 04:01:00,ACC1019,Travel,507.94,UPI,Bengaluru,Completed
+TXN100011,2026-08-18 06:47:00,ACC1041,Food & Dining,2966.77,Debit Card,Mumbai,Failed
+TXN100260,2026-08-18 08:59:00,ACC1064,Food & Dining,903.6,Net Banking,Bengaluru,Failed
+TXN100342,2026-08-18 09:33:00,ACC1059,Food & Dining,236.71,Wallet,Hyderabad,Completed
+TXN100155,2026-08-18 15:32:00,ACC1058,Entertainment,3218.95,Debit Card,Ahmedabad,Completed
+TXN100155,2026-08-18 15:32:00,ACC1058,Entertainment,3218.95,Debit Card,Ahmedabad,Completed
+TXN100141,2026-08-18 20:49:00,ACC1024,Entertainment,2107.25,Debit Card,Bengaluru,Completed
+TXN100171,2026-08-19 07:58:00,ACC1058,Travel,3308.46,Wallet,Hyderabad,Failed
+TXN100115,2026-08-19 16:32:00,ACC1028,Food & Dining,2597.37,Debit Card,Mumbai,Completed
+TXN100446,2026-08-20 01:34:00,ACC1003,Travel,1787.18,UPI,Hyderabad,Completed
+TXN100256,2026-08-20 03:06:00,ACC1079,Travel,1435.44,UPI,Bengaluru,Completed
+TXN100452,2026-08-20 07:48:00,ACC1011,Entertainment,252.53,Net Banking,Kolkata,Pending
+TXN100239,2026-08-20 16:23:00,ACC1002,Bills,438.51,Debit Card,Hyderabad,Completed
+TXN100046,2026-08-20 16:56:00,ACC1049,Healthcare,495.19,Wallet,Ahmedabad,Completed
+TXN100362,2026-08-20 18:56:00,ACC1018,Food & Dining,842.91,UPI,Delhi,Failed
+TXN100405,2026-08-20 19:41:00,ACC1017,Transfer,978.09,Wallet,Ahmedabad,Pending
+TXN100173,2026-08-21 13:58:00,ACC1003,Food & Dining,5535.56,Credit Card,Hyderabad,Failed
+TXN100497,2026-08-21 16:38:00,ACC1027,Entertainment,2167.3,Wallet,Bengaluru,Completed
+TXN100497,2026-08-21 16:38:00,ACC1027,Entertainment,2167.3,Wallet,Bengaluru,Completed
+TXN100344,2026-08-21 19:16:00,ACC1011,Healthcare,5999.95,Credit Card,Pune,Failed
+TXN100192,2026-08-21 20:05:00,ACC1013,Healthcare,1233.07,Debit Card,Ahmedabad,Completed
+TXN100350,2026-08-21 20:18:00,ACC1033,Bills,1814.28,Wallet,Mumbai,Completed
+TXN100447,2026-08-21 20:18:00,ACC1057,Food & Dining,2213.59,Credit Card,Chennai,Pending
+TXN100184,2026-08-21 21:30:00,ACC1007,Healthcare,1509.21,Credit Card,Delhi,Completed
+TXN100456,2026-08-21 22:55:00,ACC1049,Bills,973.67,Debit Card,Ahmedabad,Completed
+TXN100241,2026-08-22 06:11:00,ACC1060,Transfer,3320.2,Credit Card,Ahmedabad,Completed
+TXN100279,2026-08-22 13:46:00,ACC1027,Food & Dining,3033.6,UPI,Ahmedabad,Completed
+TXN100228,2026-08-22 17:01:00,ACC1051,Healthcare,1117.62,Credit Card,Kolkata,Pending
+TXN100377,2026-08-22 17:21:00,ACC1058,Travel,264.67,Net Banking,Chennai,Completed
+TXN100165,2026-08-22 18:16:00,ACC1078,Transfer,674.62,Wallet,Chennai,Pending
+TXN100387,2026-08-22 18:21:00,ACC1014,Bills,5473.81,Net Banking,Delhi,Pending
+TXN100185,2026-08-22 20:44:00,ACC1048,Travel,5425.43,Net Banking,Pune,Completed
+TXN100041,2026-08-22 21:06:00,ACC1011,Transfer,103542.67,Wallet,Delhi,Completed
+TXN100003,2026-08-23 05:59:00,ACC1058,Transfer,2576.75,Net Banking,Pune,Completed
+TXN100268,2026-08-23 06:57:00,ACC1044,Healthcare,3927.77,Net Banking,Ahmedabad,Completed
+TXN100119,2026-08-23 10:31:00,ACC1072,Shopping,1039.68,Wallet,Mumbai,Failed
+TXN100064,2026-08-23 10:54:00,ACC1036,Entertainment,2269.99,Wallet,Bengaluru,Completed
+TXN100461,2026-08-23 17:02:00,ACC1060,Travel,3646.57,Credit Card,Pune,Completed
+TXN100357,2026-08-23 22:45:00,ACC1040,Shopping,673.15,Credit Card,Ahmedabad,Completed
+TXN100063,2026-08-23 23:23:00,ACC1005,Bills,8213.3,Wallet,Ahmedabad,Pending
