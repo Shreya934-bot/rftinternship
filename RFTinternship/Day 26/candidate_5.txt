@@ -1,0 +1,34 @@
+KARAN MALHOTRA
+
+Email: karan.malhotra@email.com
+
+PROFESSIONAL SUMMARY
+
+Frontend Developer with 3 years of experience building responsive
+and interactive web applications.
+
+SKILLS
+
+JavaScript
+TypeScript
+HTML
+CSS
+React
+Node.js
+Git
+GitHub
+
+EXPERIENCE
+
+Frontend Developer
+WebCraft Technologies
+
+3 years of experience developing user interfaces and web applications.
+
+Built responsive applications using React, JavaScript and CSS.
+
+Collaborated with backend teams to integrate REST APIs.
+
+EDUCATION
+
+Bachelor of Technology in Computer Science

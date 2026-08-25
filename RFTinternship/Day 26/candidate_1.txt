@@ -1,0 +1,33 @@
+Aditi Sharma
+
+Email: aditi.sharma@email.com
+
+PROFESSIONAL SUMMARY
+
+Machine Learning Engineer with 3 years of experience in
+developing predictive models and data-driven applications.
+
+SKILLS
+
+Python
+SQL
+Machine Learning
+Deep Learning
+Scikit-learn
+TensorFlow
+Pandas
+NumPy
+AWS
+Docker
+Git
+
+EXPERIENCE
+
+Machine Learning Engineer
+ABC Technologies
+3 years of experience in developing and deploying
+machine learning models.
+
+EDUCATION
+
+Bachelor of Technology in Computer Science

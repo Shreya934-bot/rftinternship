@@ -1,0 +1,18 @@
+Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer with at least 2 years of experience.
+
+Required Skills:
+Python, SQL, Machine Learning, Deep Learning, Scikit-learn,
+TensorFlow, Pandas, AWS and Docker.
+
+Responsibilities:
+Develop, train and evaluate machine learning models.
+Perform data preprocessing and feature engineering.
+Build predictive models using Python and Scikit-learn.
+Work with deep learning frameworks such as TensorFlow.
+Deploy machine learning applications using AWS and Docker.
+
+Education:
+Bachelor's or Master's degree in Computer Science,
+Artificial Intelligence, Data Science or a related field.

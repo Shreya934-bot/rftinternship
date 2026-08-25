@@ -1,0 +1,45 @@
+SHREYA VERMA
+
+Email: itsshreyaverma934@gmail.com
+
+PROFESSIONAL SUMMARY
+
+Machine Learning and Data Science professional with 4 years of
+experience building end-to-end predictive analytics and AI solutions.
+
+SKILLS
+
+Python
+SQL
+Machine Learning
+Deep Learning
+Scikit-learn
+XGBoost
+TensorFlow
+Pandas
+NumPy
+Statistics
+Data Science
+AWS
+Docker
+Git
+Linux
+
+EXPERIENCE
+
+Machine Learning Engineer
+DataNext Analytics
+
+4 years of experience in developing and deploying machine learning
+models for classification, forecasting and predictive analytics.
+
+Built production-ready ML pipelines using Python, Pandas and
+Scikit-learn.
+
+Developed deep learning models using TensorFlow.
+
+Deployed containerized applications using Docker on AWS.
+
+EDUCATION
+
+Master of Technology in Computer Science

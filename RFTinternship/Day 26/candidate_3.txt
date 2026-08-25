@@ -1,0 +1,25 @@
+Neha Singh
+
+AI and Data Science enthusiast with 1 year of experience.
+
+SKILLS
+
+Python
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+Pandas
+NumPy
+NLP
+Computer Vision
+Git
+
+EXPERIENCE
+
+1 year of experience working on machine learning and
+deep learning projects.
+
+EDUCATION
+
+Master of Technology in Artificial Intelligence
