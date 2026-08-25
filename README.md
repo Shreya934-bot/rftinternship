@@ -4,7 +4,7 @@
 
 This repository contains my work completed during the **RFT Python Internship at GOW AI Academy**.
 
-Over **25 days**, I have worked on a series of hands-on Python and Data Analytics projects covering programming fundamentals, data structures, file handling, CSV processing, data cleaning, data analysis, visualization, exploratory data analysis (EDA), customer analytics, employee analytics, time-series analysis, weather analytics, fraud detection, transaction analysis, risk scoring, business insights, intermediate Python programming, report generation, and interactive dashboards.
+Over **26 days**, I have worked on a series of hands-on Python and Data Analytics projects covering programming fundamentals, data structures, file handling, CSV processing, data cleaning, data analysis, visualization, exploratory data analysis (EDA), customer analytics, employee analytics, time-series analysis, weather analytics, fraud detection, transaction analysis, risk scoring, business insights, intermediate Python programming, report generation, and interactive dashboards, machine learning fundamentals, NLP-based text similarity, and AI-powered resume screening.
 
 The internship focuses on developing practical problem-solving skills by working with datasets, building analytical solutions, creating visualizations, generating reports, and transforming raw data into meaningful insights.
 
@@ -39,6 +39,7 @@ The internship focuses on developing practical problem-solving skills by working
 | Day 23 | Employee Performance Analytics System |
 | Day 24 | Weather Data Analytics System |
 | Day 25 | Fraud Detection & Transaction Analysis System |
+| Day 26 | AI Resume Screening Tool |
 
 ---
 
@@ -56,6 +57,7 @@ The internship focuses on developing practical problem-solving skills by working
 - Seaborn
 - Streamlit
 - Plotly
+- Scikit-learn
 
 ### Development Tools
 
@@ -105,7 +107,17 @@ The internship focuses on developing practical problem-solving skills by working
 - Interactive Dashboards
 - Streamlit
 - Plotly
+- Scikit-learn
 - CSV Report Export
+- Machine Learning Fundamentals
+- NLP Text Similarity
+- TF-IDF Vectorization
+- Cosine Similarity
+- Weighted Scoring Models
+- Resume Parsing
+- Candidate Ranking
+- Skill Gap Analysis
+- Automated Shortlisting
 
 ---
 
@@ -138,7 +150,8 @@ RFTInternship/
 ├── Day22/
 ├── Day23/
 ├── Day24/
-└── Day25/
+├── Day25/
+└── Day26/
 ````
 
 Each project folder may contain:
@@ -327,9 +340,48 @@ The dashboard allows users to interactively explore:
 
 ---
 
+
+## 🤖 Day 26 – AI Resume Screening Tool
+
+Day 26 focused on building an **AI-powered Resume Screening Tool** that analyzes multiple candidate resumes and evaluates their compatibility with a given job description.
+
+### Key Features
+
+* Reads multiple candidate resumes from TXT files
+* Supports CSV files containing multiple candidate records
+* Extracts candidate details including Name, Skills, Experience, and Education
+* Matches candidate resumes against a job description
+* Calculates an overall Resume Match Score
+* Ranks candidates from highest to lowest match score
+* Highlights missing or unmatched skills
+* Automatically identifies shortlisted candidates
+* Exports shortlisted candidates as CSV
+
+### Scoring Model
+
+The final match score is calculated using a weighted compatibility model:
+
+* 🧠 Skill Compatibility – 50%
+* 💼 Experience Compatibility – 25%
+* 🎓 Education Compatibility – 15%
+* 📝 NLP Text Similarity – 10%
+
+### Bonus Challenges
+
+The project also includes:
+
+* ⚠️ Missing skill / skill gap analysis
+* 🖥️ Interactive Streamlit interface for resume and CSV uploads
+* 📊 Candidate ranking and detailed score breakdown
+* 📥 Shortlisted candidate CSV download
+
+The Streamlit application provides an interactive workflow for entering a job description, uploading multiple resumes, analyzing candidates, comparing compatibility metrics, and exporting shortlisted results.
+
+---
+
 ## 📈 Key Learning Outcomes
 
-Through these **25 projects and tasks**, I have gained hands-on experience in:
+Through these **26 projects and tasks**, I have gained hands-on experience in:
 
 * Writing clean and structured Python programs
 * Building reusable functions
@@ -350,6 +402,11 @@ Through these **25 projects and tasks**, I have gained hands-on experience in:
 * Building interactive dashboards using Streamlit
 * Exporting analytical reports as CSV files
 * Building end-to-end data analytics workflows
+* Applying weighted scoring models for candidate evaluation
+* Using TF-IDF and cosine similarity for NLP-based text matching
+* Building AI-powered resume screening and candidate ranking workflows
+* Performing skill gap analysis and automated shortlisting
+* Supporting TXT and CSV inputs in Python applications
 * Documenting projects using GitHub
 
 ---
@@ -427,6 +484,25 @@ Built an end-to-end transaction analysis system featuring:
 
 ---
 
+
+### 🤖 AI Resume Screening Tool – Day 26
+
+Built an AI-powered candidate screening system featuring:
+
+* TXT and CSV resume input support
+* Candidate detail extraction
+* Job description matching
+* Weighted Resume Match Score calculation
+* Skill compatibility analysis
+* Experience and education compatibility scoring
+* NLP-based text similarity using TF-IDF and cosine similarity
+* Missing skill / skill gap identification
+* Candidate ranking and automated shortlisting
+* CSV export of shortlisted candidates
+* Interactive Streamlit interface for resume upload and analysis
+
+---
+
 ## 🎯 About Me
 
 I am a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, passionate about building practical projects in:
@@ -443,11 +519,11 @@ I enjoy turning data and programming concepts into practical solutions and conti
 
 ## ⭐ Internship Progress
 
-### 🚀 Completed: 25 Projects
+### 🚀 Completed: 26 Projects
 
-This repository documents my continuous learning journey through hands-on **Python, Data Analytics, Data Science, Visualization, Fraud Detection, and Dashboard Development** projects during the RFT Python Internship.
+This repository documents my continuous learning journey through hands-on **Python, Data Analytics, Data Science, Visualization, Fraud Detection, Machine Learning, NLP, AI-Powered Screening, and Dashboard Development** projects during the RFT Python Internship.
 
-**Current Progress: 25 / 25 Tasks Completed** ✅
+**Current Progress: 26 / 26 Tasks Completed** ✅
 
 ---
 
