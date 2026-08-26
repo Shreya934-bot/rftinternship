@@ -23,37 +23,32 @@ meaningful insights.
 
 ## 📅 Internship Progress
 
-  Day      Project
-  -------- -----------------------------------------------
-  Day 1    Data Cleaner
-  Day 2    Student Score Analyzer
-  Day 3    Dictionary-Based Phonebook
-  Day 4    Simple Log Analyzer
-  Day 5    Basic CSV Reader
-  Day 6    Sales Data Analyzer
-  Day 7    Student Performance Analyzer
-  Day 8    Employee Salary Insights
-  Day 9    Data Filtering Tool
-  Day 10   Log Analyzer
-  Day 11   Sales Trend Visualization
-  Day 12   Student Performance Dashboard
-  Day 13   Distribution Analysis Using Seaborn
-  Day 14   Category Breakdown (Pie Chart)
-  Day 15   Mini EDA Dashboard
-  Day 16   Complete Sales Data EDA
-  Day 17   Customer Segmentation Analysis
-  Day 18   Movie Dataset Analysis
-  Day 19   Stock / Time-Series Analysis
-  Day 20   Sales Analytics Capstone Project
-  Day 21   Functions -- Intermediate
-  Day 22   Sales & Customer Insights Dashboard
-  Day 23   Employee Performance Analytics System
-  Day 24   Weather Data Analytics System
-  Day 25   Fraud Detection & Transaction Analysis System
-  Day 26   AI Resume Screening Tool
-  Day 27   Social Media Trend Analyzer
-
-------------------------------------------------------------------------
+| Day | Project |
+|:---:|---|
+| 1 | Data Cleaner |
+| 2 | Student Score Analyzer |
+| 3 | Dictionary-Based Phonebook |
+| 4 | Basic CSV Reader |
+| 6 | Sales Data Analyzer |
+| 7 | Student Performance Analyzer |
+| 8 | Data Filtering Tool |
+| 10 | Log Analyzer |
+| 11 | Sales Trend Visualization |
+| 12 | Student Data Visualization |
+| 13 | Distribution Analysis Using Seaborn |
+| 14 | Category Breakdown (Pie Chart) |
+| 15 | Complete Sales Data EDA |
+| 17 | Customer Segmentation Analysis |
+| 18 | Movie Data Analysis |
+| 19 | Time-Series Analysis |
+| 20 | Sales Analytics Capstone Project |
+| 21 | Functions & Intermediate Python |
+| 22 | Customer Insights Dashboard |
+| 23 | Employee Performance Analytics System |
+| 24 | Weather Analytics |
+| 25 | Fraud Detection & Transaction Analysis System |
+| 26 | AI Resume Screening Tool |
+| 27 | Social Media Trend Analyzer |
 
 ## 🛠️ Technologies Used
 
