@@ -5,7 +5,7 @@
 This repository contains my work completed during the **RFT Python
 Internship at GOW AI Academy**.
 
-Across **28 days**, I have worked on a series of hands-on Python, Data
+Across **29 days**, I have worked on a series of hands-on Python, Data
 Analytics, Data Science, Machine Learning, NLP, and AI projects covering
 programming fundamentals, file handling, CSV processing, data cleaning,
 exploratory data analysis, visualization, customer analytics, employee
@@ -50,6 +50,7 @@ meaningful insights.
 | 26 | AI Resume Screening Tool |
 | 27 | Social Media Trend Analyzer |
 | 28 | Stock Market Portfolio Analyzer |
+| 29 | Smart Expense Tracker & Budget Analyzer |
 
 ## 🛠️ Technologies Used
 
@@ -131,6 +132,13 @@ meaningful insights.
 -   Engagement Analysis
 -   Sentiment Analysis
 -   Search and Filtering
+-   Expense Categorization
+-   Budget Analysis
+-   Savings Calculation
+-   Financial Trend Analysis
+-   Expense Prediction
+-   Budget Utilization Analysis
+-   Financial Dashboard Development
 
 ------------------------------------------------------------------------
 
@@ -165,7 +173,9 @@ RFTInternship/
 ├── Day24/
 ├── Day25/
 ├── Day26/
-└── Day27/
+├── Day27/
+├── Day28/
+└── Day29/
 ```
 
 Each project folder may contain:
@@ -343,11 +353,112 @@ Built a portfolio analytics dashboard that transforms stock price and portfolio 
 
 This project combines Python, Pandas, data visualization, financial calculations, time-series concepts, and Streamlit dashboard development into an end-to-end portfolio analytics workflow.
 
+
+------------------------------------------------------------------------
+
+## 💰 Day 29 -- Smart Expense Tracker & Budget Analyzer
+
+Built a complete expense analytics system that transforms raw monthly
+expense data into spending, savings, budgeting, and forecasting insights.
+
+### Key Features
+
+-   Expense data processing from CSV
+-   Dataset validation and cleaning
+-   Automatic expense categorization
+-   Monthly expense calculation
+-   Monthly savings calculation
+-   Savings rate analysis
+-   Average and largest expense analysis
+-   Category-wise spending analysis
+-   Budget vs actual spending comparison
+-   Budget utilization analysis
+-   Over-budget category detection
+-   Daily spending analysis
+-   Monthly spending trend analysis
+-   Spending by day-of-week analysis
+-   Simple next-month expense prediction
+-   Searchable transaction explorer
+-   Category and amount filters
+-   CSV report generation and downloads
+-   Interactive Streamlit dashboard
+-   Upload-first dashboard workflow
+-   Custom budget configuration
+
+### Visualizations
+
+-   📈 Monthly Spending Trend
+-   📊 Top Expense Categories
+-   🥧 Spending Distribution by Category
+-   📉 Daily Spending Activity
+-   🎯 Budget vs Actual Spending
+
+### Dashboard
+
+The Day 29 dashboard was designed with a custom **Shreya Verma / SV**
+brand identity and a polished dark analytics interface.
+
+It includes:
+
+-   Branded dashboard header
+-   KPI cards
+-   Smart spending insights
+-   Budget control center
+-   Transaction explorer
+-   Interactive Plotly charts
+-   Search and filtering
+-   Expense forecasting
+-   Downloadable analytical reports
+-   CSV upload validation
+
+### Project Outputs
+
+``` text
+data/
+└── sample_expenses.csv
+
+charts/
+├── 01_monthly_spending_trend.png
+├── 02_category_spending.png
+├── 03_category_distribution.png
+├── 04_daily_spending.png
+├── 05_budget_vs_actual.png
+└── 06_weekday_spending.png
+
+reports/
+├── cleaned_expenses.csv
+├── monthly_expense_summary.csv
+├── category_expense_summary.csv
+├── daily_expense_summary.csv
+└── budget_analysis.csv
+```
+
+### Project Files
+
+``` text
+Day29/
+├── expense_tracker.py
+├── app.py
+├── Day29_Smart_Expense_Tracker.ipynb
+├── data/
+├── charts/
+├── reports/
+├── requirements.txt
+└── README.md
+```
+
+### Project Focus
+
+This project combines Python, Pandas, NumPy, data cleaning, automatic
+categorization, financial calculations, budgeting, data visualization,
+trend analysis, simple forecasting, CSV report generation, and Streamlit
+dashboard development into an end-to-end expense intelligence workflow.
+
 ------------------------------------------------------------------------
 
 ## 📈 Key Learning Outcomes
 
-Through these **28 projects and tasks**, I have gained hands-on
+Through these **29 projects and tasks**, I have gained hands-on
 experience in:
 
 -   Writing clean and structured Python programs
@@ -378,6 +489,11 @@ experience in:
 -   Exporting analytical reports and visualizations
 -   Building end-to-end data analytics workflows
 -   Documenting projects using GitHub
+-   Building expense tracking and budgeting systems
+-   Calculating savings and budget utilization metrics
+-   Creating financial trend visualizations
+-   Building simple expense forecasting workflows
+-   Designing branded Streamlit analytics applications
 
 ------------------------------------------------------------------------
 
@@ -401,15 +517,15 @@ through hands-on projects.
 
 ## ⭐ Internship Progress
 
-### 🚀 Completed: 28 Projects
+### 🚀 Completed: 29 Projects
 
 This repository documents my continuous learning journey through
 hands-on **Python, Data Analytics, Data Science, Visualization, Fraud
 Detection, Machine Learning, NLP, AI-Powered Screening, Social Media
-Analytics, Portfolio Analysis, Financial Data Analytics, and Dashboard Development** projects during the RFT Python
+Analytics, Portfolio Analysis, Financial Data Analytics, Expense Tracking, Budget Analysis, and Dashboard Development** projects during the RFT Python
 Internship.
 
-**Current Progress: 28 / 28 Tasks Completed** ✅
+**Current Progress: 29 / 29 Tasks Completed** ✅
 
 ------------------------------------------------------------------------
 

@@ -1,0 +1,44 @@
+Date,Description,Amount,Category,Month,Day,Weekday
+2026-05-01,Monthly Rent,15000,Rent & Housing,2026-05,2026-05-01,Friday
+2026-05-03,Groceries,3200,Food & Dining,2026-05,2026-05-03,Sunday
+2026-05-05,Uber Ride,450,Transport,2026-05,2026-05-05,Tuesday
+2026-05-07,Electricity Bill,1800,Bills & Utilities,2026-05,2026-05-07,Thursday
+2026-05-09,Amazon Purchase,1800,Shopping,2026-05,2026-05-09,Saturday
+2026-05-12,Netflix Subscription,649,Entertainment,2026-05,2026-05-12,Tuesday
+2026-05-15,Pharmacy,700,Health,2026-05,2026-05-15,Friday
+2026-05-18,Cafe Coffee,420,Food & Dining,2026-05,2026-05-18,Monday
+2026-05-22,Fuel,2200,Transport,2026-05,2026-05-22,Friday
+2026-05-25,Udemy Course,1200,Education,2026-05,2026-05-25,Monday
+2026-06-01,Monthly Rent,15000,Rent & Housing,2026-06,2026-06-01,Monday
+2026-06-03,Swiggy Dinner,580,Food & Dining,2026-06,2026-06-03,Wednesday
+2026-06-05,Groceries,3500,Food & Dining,2026-06,2026-06-05,Friday
+2026-06-07,Uber Ride,380,Transport,2026-06,2026-06-07,Sunday
+2026-06-10,Electricity Bill,1900,Bills & Utilities,2026-06,2026-06-10,Wednesday
+2026-06-12,Amazon Purchase,2100,Shopping,2026-06,2026-06-12,Friday
+2026-06-15,Spotify Subscription,119,Entertainment,2026-06,2026-06-15,Monday
+2026-06-18,Doctor Consultation,900,Health,2026-06,2026-06-18,Thursday
+2026-06-20,Cafe Coffee,450,Food & Dining,2026-06,2026-06-20,Saturday
+2026-06-23,Fuel,2300,Transport,2026-06,2026-06-23,Tuesday
+2026-06-27,Course Fee,1500,Education,2026-06,2026-06-27,Saturday
+2026-07-01,Monthly Rent,15000,Rent & Housing,2026-07,2026-07-01,Wednesday
+2026-07-03,Zomato Lunch,520,Food & Dining,2026-07,2026-07-03,Friday
+2026-07-05,Groceries,3700,Food & Dining,2026-07,2026-07-05,Sunday
+2026-07-07,Uber Ride,420,Transport,2026-07,2026-07-07,Tuesday
+2026-07-10,Electricity Bill,2050,Bills & Utilities,2026-07,2026-07-10,Friday
+2026-07-12,Clothes Shopping,2400,Shopping,2026-07,2026-07-12,Sunday
+2026-07-15,Netflix Subscription,649,Entertainment,2026-07,2026-07-15,Wednesday
+2026-07-18,Pharmacy,850,Health,2026-07,2026-07-18,Saturday
+2026-07-20,Cafe Coffee,480,Food & Dining,2026-07,2026-07-20,Monday
+2026-07-24,Fuel,2400,Transport,2026-07,2026-07-24,Friday
+2026-07-28,Restaurant Dinner,1450,Food & Dining,2026-07,2026-07-28,Tuesday
+2026-08-01,Monthly Rent,15000,Rent & Housing,2026-08,2026-08-01,Saturday
+2026-08-03,Swiggy Dinner,620,Food & Dining,2026-08,2026-08-03,Monday
+2026-08-05,Groceries,3900,Food & Dining,2026-08,2026-08-05,Wednesday
+2026-08-07,Uber Ride,450,Transport,2026-08,2026-08-07,Friday
+2026-08-10,Electricity Bill,2150,Bills & Utilities,2026-08,2026-08-10,Monday
+2026-08-12,Flipkart Purchase,2200,Shopping,2026-08,2026-08-12,Wednesday
+2026-08-15,Netflix Subscription,649,Entertainment,2026-08,2026-08-15,Saturday
+2026-08-18,Pharmacy,750,Health,2026-08,2026-08-18,Tuesday
+2026-08-20,Cafe Coffee,520,Food & Dining,2026-08,2026-08-20,Thursday
+2026-08-24,Fuel,2500,Transport,2026-08,2026-08-24,Monday
+2026-08-28,Restaurant Dinner,1600,Food & Dining,2026-08,2026-08-28,Friday
