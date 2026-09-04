@@ -1,93 +1,116 @@
 # RFT Python Internship
 
-### Shreya Verma | Python Developer | AI & Machine Learning
+<div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Analytics-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-Computing-013243?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Plotly](https://img.shields.io/badge/Plotly-Visualization-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
-[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white)](https://github.com/)
+# Shreya Verma
+
+### Python Developer · AI & Machine Learning · Data Analytics
+
+**A 30-project hands-on journey from Python fundamentals to end-to-end data applications.**
+
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Computing-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Applications-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Viz-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+</div>
 
 ---
 
 ## About This Repository
 
-This repository contains my work completed during the **RFT Python Internship at GOW AI Academy**.
+This repository documents my work during the **RFT Python Internship at GOW AI Academy**.
 
-Rather than treating each task as an isolated exercise, I used the internship to progressively build practical Python and data-driven applications — moving from programming fundamentals and file handling to analytics systems, machine learning workflows, NLP, financial analysis, document processing, and interactive Streamlit applications.
+Over 30 project days, I progressively moved from Python fundamentals and basic data handling to complete analytical applications involving data cleaning, visualization, machine learning, NLP, financial analytics, document processing, and Streamlit dashboards.
 
-Across the internship, the projects cover:
+The projects are intentionally practical. Each one focuses on taking a problem, working with its data, building the underlying logic, analyzing the result, and presenting the outcome in a usable form.
 
-- Python programming and problem solving
-- File and CSV processing
-- Data cleaning and preprocessing
-- Exploratory Data Analysis
-- Data visualization
-- Customer and employee analytics
-- Time-series analysis
-- Fraud and transaction analysis
-- Machine learning fundamentals
-- NLP and text similarity
-- AI-assisted resume screening
-- Social media analytics
-- Portfolio analytics
-- Expense and budget intelligence
-- Invoice processing and financial reporting
-- Interactive Streamlit applications
+### What this repository represents
 
-> **Learning approach:** understand the data → build the logic → analyze the results → visualize the insight → turn it into a usable application.
+```text
+Python Fundamentals
+        ↓
+File & CSV Handling
+        ↓
+Data Cleaning & Transformation
+        ↓
+Exploratory Data Analysis
+        ↓
+Visualization & Storytelling
+        ↓
+Business & Financial Analytics
+        ↓
+Machine Learning
+        ↓
+NLP & AI Workflows
+        ↓
+Interactive Applications
+        ↓
+Document Intelligence
+```
+
+> The objective throughout the internship was not only to write Python code, but to learn how to turn raw data into meaningful, usable solutions.
 
 ---
 
-## Internship Journey
+## Internship Snapshot
 
-| Stage | Focus | What I Built |
+| | |
+|---|---|
+| **Program** | RFT Python Internship |
+| **Organization** | GOW AI Academy |
+| **Duration** | 30 project days |
+| **Primary Language** | Python |
+| **Core Areas** | Data Analytics · Data Science · ML · NLP · AI |
+| **Application Layer** | Streamlit |
+| **Development** | Jupyter · VS Code · Git · GitHub |
+| **Final Project** | Automated Invoice Processing System |
+
+### Progress
+
+```text
+30 / 30 Projects Completed
+████████████████████████████████████████ 100%
+```
+
+---
+
+# Project Journey
+
+The projects gradually increase in complexity, moving from individual Python concepts to complete data-driven applications.
+
+| Day | Project | Primary Focus |
 |:---:|---|---|
-| 01 | Python Foundations | Data Cleaner, Score Analyzer, Phonebook |
-| 02 | Data Handling | CSV Reader, Filtering Tool, Log Analyzer |
-| 03 | Visualization | Sales Trends, Student Visualization, Distribution Analysis |
-| 04 | Analytics | Sales EDA, Customer Segmentation, Movie & Time-Series Analysis |
-| 05 | Application Building | Sales Capstone, Customer Dashboard, Employee Analytics |
-| 06 | Intelligent Analytics | Weather Analytics, Fraud Detection, Risk Scoring |
-| 07 | AI & NLP | Resume Screening, Text Similarity, Candidate Ranking |
-| 08 | Social & Financial Analytics | Social Media Trends, Portfolio Analysis, Expense Intelligence |
-| 09 | Document Intelligence | Automated Invoice Processing & Reporting |
-
----
-
-## Project Progress
-
-| Day | Project |
-|:---:|---|
-| 1 | Data Cleaner |
-| 2 | Student Score Analyzer |
-| 3 | Dictionary-Based Phonebook |
-| 4 | Basic CSV Reader |
-| 6 | Sales Data Analyzer |
-| 7 | Student Performance Analyzer |
-| 8 | Data Filtering Tool |
-| 10 | Log Analyzer |
-| 11 | Sales Trend Visualization |
-| 12 | Student Data Visualization |
-| 13 | Distribution Analysis Using Seaborn |
-| 14 | Category Breakdown |
-| 15 | Complete Sales Data EDA |
-| 17 | Customer Segmentation Analysis |
-| 18 | Movie Data Analysis |
-| 19 | Time-Series Analysis |
-| 20 | Sales Analytics Capstone Project |
-| 21 | Functions & Intermediate Python |
-| 22 | Customer Insights Dashboard |
-| 23 | Employee Performance Analytics System |
-| 24 | Weather Analytics |
-| 25 | Fraud Detection & Transaction Analysis System |
-| 26 | AI Resume Screening Tool |
-| 27 | Social Media Trend Analyzer |
-| 28 | Stock Market Portfolio Analyzer |
-| 29 | Smart Expense Tracker & Budget Analyzer |
-| 30 | Automated Invoice Processing System |
+| 1 | Data Cleaner | Python · Data Handling |
+| 2 | Student Score Analyzer | Lists · Calculations |
+| 3 | Dictionary-Based Phonebook | Dictionaries · Functions |
+| 4 | Basic CSV Reader | File Handling · CSV |
+| 6 | Sales Data Analyzer | Pandas · Aggregation |
+| 7 | Student Performance Analyzer | Data Analysis |
+| 8 | Data Filtering Tool | Filtering · Conditions |
+| 10 | Log Analyzer | Text/File Processing |
+| 11 | Sales Trend Visualization | Matplotlib |
+| 12 | Student Data Visualization | Visualization |
+| 13 | Distribution Analysis Using Seaborn | Statistical Visualization |
+| 14 | Category Breakdown | Categorical Analysis |
+| 15 | Complete Sales Data EDA | Exploratory Data Analysis |
+| 17 | Customer Segmentation Analysis | Customer Analytics |
+| 18 | Movie Data Analysis | Dataset Exploration |
+| 19 | Time-Series Analysis | Trends · Moving Average |
+| 20 | Sales Analytics Capstone Project | End-to-End Analytics |
+| 21 | Functions & Intermediate Python | Reusable Python |
+| 22 | Customer Insights Dashboard | Streamlit · Business Analytics |
+| 23 | Employee Performance Analytics System | HR Analytics |
+| 24 | Weather Analytics | Time Series · Visualization |
+| 25 | Fraud Detection & Transaction Analysis | Risk Analytics |
+| 26 | AI Resume Screening Tool | NLP · ML |
+| 27 | Social Media Trend Analyzer | Sentiment · Engagement |
+| 28 | Stock Market Portfolio Analyzer | Financial Analytics |
+| 29 | Smart Expense Tracker & Budget Analyzer | Budget Intelligence |
+| 30 | Automated Invoice Processing System | PDF · Financial Intelligence |
 
 ---
 
@@ -95,29 +118,29 @@ Across the internship, the projects cover:
 
 ## Day 20 — Sales Analytics Capstone
 
-An end-to-end sales analytics project combining data preparation, business analysis, visualization, and insight generation.
+An end-to-end sales analytics project that brings together data preparation, business analysis, visualization, and insight generation.
 
-### Highlights
+**Built around:**
 
 - Data cleaning
 - Revenue analysis
-- Product-wise sales analysis
-- Region-wise sales analysis
-- Sales trend visualization
+- Product-wise analysis
+- Region-wise analysis
+- Sales trend analysis
 - Business insight generation
 
 ---
 
 ## Day 22 — Customer Insights Dashboard
 
-A complete customer and sales analytics workflow developed as an interactive dashboard.
+An interactive customer and sales analytics application designed to turn raw sales records into decision-oriented insights.
 
-### Highlights
+**Includes:**
 
 - Customer ranking
 - Product analysis
 - Category distribution
-- Sales trend analysis
+- Sales trends
 - Business insights
 - Interactive Streamlit dashboard
 
@@ -125,65 +148,65 @@ A complete customer and sales analytics workflow developed as an interactive das
 
 ## Day 23 — Employee Performance Analytics System
 
-An employee analytics application focused on performance, attendance, and departmental patterns.
+An employee analytics system focused on understanding performance and attendance patterns.
 
-### Highlights
+**Includes:**
 
 - Department-wise performance analysis
 - Top performer identification
-- Low attendance detection
-- Attendance and performance visualizations
+- Low-attendance detection
+- Attendance/performance visualization
 - CSV report generation
-- Interactive Streamlit dashboard
+- Interactive dashboard
 
 ---
 
 ## Day 24 — Weather Analytics
 
-A city-level weather analytics system combining descriptive analysis, visualization, and moving-average based analysis.
+A weather analytics workflow combining descriptive statistics, city comparisons, trend analysis, and moving-average analysis.
 
-### Highlights
+**Includes:**
 
 - City-wise temperature analysis
-- Hottest and coldest city identification
-- Rainy and sunny weather analysis
-- Temperature trend visualization
-- Weather distribution analysis
-- City-wise comparison
-- CSV report generation
-- 7-day moving average temperature analysis
-- Interactive dashboard with filters
+- Hottest and coldest city detection
+- Rainy/sunny weather analysis
+- Temperature trends
+- Weather distribution
+- City comparison
+- CSV reporting
+- 7-day moving-average analysis
+- Interactive filters
 
 ---
 
 ## Day 25 — Fraud Detection & Transaction Analysis
 
-An end-to-end transaction intelligence workflow designed to identify suspicious activity and quantify transaction risk.
+A transaction intelligence system focused on identifying suspicious patterns and quantifying transaction risk.
 
-### Highlights
+**Includes:**
 
-- Duplicate transaction detection
+- Duplicate detection
 - High-value transaction analysis
-- Frequent suspicious account detection
-- Transaction risk scoring
+- Suspicious-account detection
+- Risk scoring
 - Risk-level classification
-- Daily transaction trend analysis
-- Transaction category visualization
-- Suspicious transaction report generation
+- Daily transaction trends
+- Transaction-category analysis
+- Suspicious transaction reporting
 - Search and filtering
-- Interactive Streamlit dashboard
+- Streamlit dashboard
 
 ---
 
 ## Day 26 — AI Resume Screening Tool
 
-An AI-assisted candidate screening workflow that combines structured scoring with NLP-based text similarity.
+An AI-assisted candidate screening workflow combining structured scoring with NLP-based resume/job-description similarity.
 
-### Highlights
+**Includes:**
 
 - TXT and CSV resume input
 - Candidate detail extraction
-- Job description matching
+- Job-description matching
 - Weighted resume match score
 - Skill compatibility analysis
 - Experience and education scoring
@@ -193,31 +216,31 @@ An AI-assisted candidate screening workflow that combines structured scoring wit
 - Candidate ranking
 - Automated shortlisting
 - CSV export
-- Interactive Streamlit interface
+- Streamlit interface
 
 ---
 
 ## Day 27 — Social Media Trend Analyzer
 
-An analytics system that transforms post-level social media data into trend, engagement, and sentiment insights.
+An interactive analytics application that converts post-level data into trend, engagement, and sentiment insights.
 
-### Highlights
+**Includes:**
 
-- Trending hashtag identification
+- Trending hashtag detection
 - Most active user analysis
-- Likes, comments, and shares analysis
+- Likes/comments/shares analysis
 - Total engagement calculation
 - Posting-time analysis
 - Daily engagement trends
-- Content category distribution
+- Content-category distribution
 - Sentiment analysis
 - Positive / Neutral / Negative classification
 - Search and filtering
 - Interactive dashboard
-- CSV analytics report export
+- CSV reporting
 - Chart generation
 
-### Outputs
+### Generated Outputs
 
 ```text
 social_media_analytics_report.csv
@@ -229,18 +252,18 @@ sentiment_distribution.png
 
 ---
 
-## Day 28 — Stock Market Portfolio Analyzer
+# Day 28 — Stock Market Portfolio Analyzer
 
-A portfolio analytics dashboard that transforms stock and investment data into performance and return insights.
+A portfolio analytics dashboard designed to transform stock and investment records into performance insights.
 
-### Highlights
+### Capabilities
 
-- Stock price data processing from CSV
+- Stock price data processing
 - Investment value calculation
 - Current portfolio value calculation
-- Profit / Loss calculation
+- Profit/Loss calculation
 - Individual stock return analysis
-- Best and worst performer identification
+- Best/worst performer identification
 - Overall portfolio return
 - Sector-wise investment analysis
 - Daily return analysis
@@ -248,52 +271,63 @@ A portfolio analytics dashboard that transforms stock and investment data into p
 - Moving-average based trend analysis
 - Interactive Streamlit dashboard
 
-### Visualizations
+### Analytics Layer
 
 ```text
-Portfolio Growth
-Sector-wise Investment
+Stock Data
+    ↓
+Portfolio Valuation
+    ↓
+Profit / Loss
+    ↓
+Individual Returns
+    ↓
+Sector Analysis
+    ↓
 Daily Returns
-Moving Average Trend
+    ↓
+Portfolio Trend
 ```
 
 ---
 
-## Day 29 — Smart Expense Tracker & Budget Analyzer
+# Day 29 — Smart Expense Tracker & Budget Analyzer
 
-A financial analytics system that transforms raw expense data into spending, savings, budgeting, and forecasting insights.
+A financial analytics application that transforms expense records into spending, savings, budgeting, and forecasting insights.
 
-### Highlights
+### Capabilities
 
-- CSV expense processing
-- Dataset validation and cleaning
+- CSV processing
+- Dataset validation
+- Data cleaning
 - Automatic expense categorization
 - Monthly expense calculation
 - Monthly savings calculation
 - Savings-rate analysis
-- Category-wise spending analysis
+- Category-wise spending
 - Budget vs actual comparison
-- Budget utilization analysis
-- Over-budget category detection
+- Budget utilization
+- Over-budget detection
 - Daily spending analysis
-- Monthly spending trends
+- Monthly trends
 - Day-of-week analysis
 - Simple expense prediction
 - Searchable transaction explorer
 - Category and amount filters
 - CSV report generation
 - Custom budget configuration
-- Interactive Streamlit dashboard
+- Streamlit dashboard
 
-### Visualizations
+### Visual Analytics
 
 ```text
 Monthly Spending Trend
-Top Expense Categories
-Category Distribution
-Daily Spending Activity
-Budget vs Actual Spending
-Weekday Spending
+        │
+        ├── Category Analysis
+        ├── Daily Activity
+        ├── Budget Utilization
+        ├── Savings Analysis
+        └── Expense Forecast
 ```
 
 ### Project Structure
@@ -314,157 +348,179 @@ Day29/
 
 # Day 30 — Automated Invoice Processing System
 
-The final project focuses on turning invoice documents into structured financial records and actionable payment-status insights.
+The final project brings together structured data processing, PDF extraction, financial calculations, overdue monitoring, reporting, and an interactive dashboard.
 
-The project supports both structured CSV data and PDF invoice extraction, followed by validation, analysis, overdue detection, reporting, and an interactive Streamlit interface.
+The system accepts invoice data from CSV files and text-based PDF invoices, extracts relevant information, consolidates invoice records, identifies overdue invoices, and produces downloadable reports.
 
-### Core Capabilities
-
-- CSV invoice processing
-- PDF invoice extraction
-- Invoice number extraction
-- Customer detail extraction
-- Invoice date extraction
-- Due-date processing
-- Item and price extraction
-- Invoice total calculation
-- Overdue invoice identification
-- Outstanding-value analysis
-- Customer exposure analysis
-- Searchable invoice explorer
-- Payment-status filtering
-- Minimum-value filtering
-- Consolidated invoice reporting
-- Overdue invoice reporting
-- Summary report generation
-- Processed CSV export
-- Interactive Plotly visualizations
-- Streamlit dashboard
-
-### Dashboard Structure
+### Processing Pipeline
 
 ```text
-Invoice Intelligence
-│
-├── Overview
-│   ├── Invoice KPIs
-│   ├── Total Value
-│   ├── Average Invoice
-│   ├── Overdue Exposure
-│   └── Customer Count
-│
-├── Overdue
-│   ├── Outstanding Invoices
-│   ├── Overdue Amount
-│   └── Customer Exposure
-│
-├── Explorer
-│   ├── Search
-│   ├── Status Filter
-│   ├── Value Filter
-│   └── Invoice Records
-│
-└── Reports
-    ├── Consolidated Report
-    ├── Overdue Report
-    └── Summary Report
+CSV / PDF
+    ↓
+File Validation
+    ↓
+Data Extraction
+    ↓
+Field Cleaning
+    ↓
+Invoice Consolidation
+    ↓
+Financial Calculations
+    ↓
+Overdue Detection
+    ↓
+Analytics
+    ↓
+Reports + Dashboard
 ```
 
-### Supported Input
+### Invoice Information Extracted
+
+- Invoice Number
+- Customer Name
+- Customer Email
+- Invoice Date
+- Due Date
+- Item Details
+- Quantity
+- Unit Price
+- Line Amount
+- Invoice Total
+
+### Overdue Intelligence
+
+- Current vs overdue classification
+- Days overdue calculation
+- Total overdue amount
+- Configurable as-of date
+- Customer-level outstanding exposure
+
+### Reporting
+
+- Consolidated invoice report
+- Overdue invoice report
+- Automated summary report
+- Processed dataset export
+
+### Dashboard
+
+The application includes a custom **SV / Shreya Verma / Data Projects** identity and a focused dark analytics interface.
 
 ```text
-CSV
-PDF
+Overview
+├── Invoice KPIs
+├── Total Invoice Value
+├── Average Invoice
+├── Payment Status
+├── Customer Exposure
+└── Invoice Trends
+
+Overdue
+├── Outstanding Invoices
+├── Overdue Amount
+├── Days Overdue
+└── Customer Exposure
+
+Explorer
+├── Search
+├── Status Filters
+├── Value Filters
+└── Invoice Records
+
+Reports
+├── Consolidated CSV
+├── Overdue CSV
+├── Summary CSV
+└── Processed Dataset
 ```
 
-### Day 30 Project Structure
+### PDF Scope
+
+Text-based PDFs are processed using `pypdf`.
+
+Scanned/image-only PDFs require OCR and are outside the scope of this lightweight text-PDF implementation.
+
+### Day 30 Structure
 
 ```text
 Day30/
 ├── invoice_processor.py
 ├── app.py
 ├── Invoice_Processor.ipynb
+├── requirements.txt
+├── README.md
+├── sample_invoices.csv
 ├── invoices/
 │   ├── sample_invoice_001.pdf
 │   ├── sample_invoice_002.pdf
 │   └── sample_invoice_003.pdf
-├── reports/
-├── sample_invoices.csv
-├── requirements.txt
-└── README.md
-```
-
-### Application Design
-
-The Streamlit interface uses a custom **SV / SHREYA VERMA / DATA PROJECTS** identity with a focused dark analytics interface.
-
-The application is designed around a simple workflow:
-
-```text
-Upload
-  ↓
-Validate
-  ↓
-Extract
-  ↓
-Transform
-  ↓
-Analyze
-  ↓
-Visualize
-  ↓
-Report
+└── reports/
+    ├── consolidated_invoice_report.csv
+    ├── overdue_invoices.csv
+    └── invoice_summary_report.csv
 ```
 
 ---
 
-# Technology Stack
+# Technical Stack
 
-## Programming
+## Core
 
-- Python
-
-## Data Analysis
-
-- Pandas
-- NumPy
+```text
+Python
+Pandas
+NumPy
+```
 
 ## Visualization
 
-- Matplotlib
-- Seaborn
-- Plotly
+```text
+Matplotlib
+Seaborn
+Plotly
+```
 
 ## Machine Learning
 
-- Scikit-learn
+```text
+Scikit-learn
+```
 
-## NLP
+## NLP / AI
 
-- TextBlob
-- TF-IDF
-- Cosine Similarity
+```text
+TF-IDF
+Cosine Similarity
+TextBlob
+```
 
 ## Application Development
 
-- Streamlit
+```text
+Streamlit
+```
 
 ## Document Processing
 
-- pypdf
+```text
+pypdf
+ReportLab
+```
 
-## Development Tools
+## Development
 
-- Jupyter Notebook
-- VS Code
-- Git
-- GitHub
+```text
+Jupyter Notebook
+VS Code
+Git
+GitHub
+```
 
 ---
 
-# Concepts Practiced
+# Skills Developed
 
-### Python
+## Python Development
 
 - Python fundamentals
 - Data structures
@@ -476,69 +532,71 @@ Report
 - Return values
 - Variable scope
 - File handling
+- Modular program design
 
-### Data Analytics
+## Data Analytics
 
 - CSV processing
+- Data validation
 - Data cleaning
 - Missing-value handling
-- Duplicate removal
-- Data filtering
-- Data aggregation
+- Duplicate detection
+- Filtering
+- Aggregation
 - GroupBy operations
 - Exploratory Data Analysis
 - Business insight generation
 - Data storytelling
 
-### Visualization
+## Data Visualization
 
 - Matplotlib
 - Seaborn
 - Plotly
 - Distribution analysis
 - Trend analysis
-- Category analysis
-- Interactive charts
+- Categorical analysis
+- Interactive dashboards
 
-### Machine Learning & NLP
+## Machine Learning & NLP
 
-- Machine learning fundamentals
-- TF-IDF vectorization
+- ML fundamentals
+- TF-IDF
 - Cosine similarity
-- Weighted scoring
+- Weighted scoring models
 - Resume parsing
 - Candidate ranking
 - Skill-gap analysis
-- Automated shortlisting
 - Sentiment analysis
+- Automated shortlisting
 
-### Financial & Operational Analytics
+## Financial & Operational Analytics
 
-- Portfolio return analysis
-- Profit / Loss calculation
+- Portfolio returns
+- Profit/Loss
 - Moving averages
 - Expense categorization
-- Budget analysis
-- Savings calculation
 - Budget utilization
+- Savings analysis
 - Expense prediction
 - Invoice extraction
-- Overdue detection
+- Overdue monitoring
 - Financial reporting
 
-### Application Development
+## Application Development
 
-- Streamlit dashboards
-- Upload-first workflows
+- Streamlit
+- File upload workflows
 - Search and filtering
 - Interactive analytics
-- CSV report export
-- Downloadable outputs
+- Downloadable reports
+- CSV export
 - Branded interfaces
+- End-to-end application workflows
 
 ---
 
-# Repository Structure
+# Repository Architecture
 
 ```text
 RFTInternship/
@@ -576,87 +634,163 @@ RFTInternship/
 └── README.md
 ```
 
-Depending on the project, individual folders may contain:
+Individual projects may contain:
 
 ```text
-Python source code
-Jupyter notebooks
-Datasets
-Generated charts
-Reports
-Streamlit applications
-requirements.txt
-Project README
+.py              Python implementation
+.ipynb           Jupyter notebook
+.csv             Dataset / processed data
+.png             Generated visualization
+reports/         Analytical outputs
+charts/          Saved charts
+app.py           Streamlit application
+requirements.txt Dependencies
+README.md        Project documentation
 ```
 
 ---
 
-# Development Progression
+# From Scripts to Applications
 
-One of the most valuable parts of this internship has been the progression from small scripts to complete applications.
+A major part of the internship progression was learning to move beyond isolated scripts.
+
+### Early stage
 
 ```text
-Python Fundamentals
-        ↓
-File & CSV Handling
-        ↓
-Data Cleaning
-        ↓
-Exploratory Analysis
-        ↓
+Input
+ ↓
+Python Logic
+ ↓
+Output
+```
+
+### Analytics stage
+
+```text
+Dataset
+ ↓
+Cleaning
+ ↓
+Transformation
+ ↓
+Analysis
+ ↓
 Visualization
-        ↓
-Business Analytics
-        ↓
-Machine Learning
-        ↓
-NLP & AI Workflows
-        ↓
-Interactive Dashboards
-        ↓
-Financial Intelligence
-        ↓
-Document Processing
-        ↓
-End-to-End Applications
+ ↓
+Insight
 ```
 
-The later projects combine multiple stages into a single workflow instead of treating coding, analysis, visualization, and reporting as separate tasks.
+### Application stage
+
+```text
+User Input
+ ↓
+Validation
+ ↓
+Processing
+ ↓
+Analytics
+ ↓
+Visualization
+ ↓
+Filtering
+ ↓
+Export
+```
+
+### Final projects
+
+```text
+Real-world style data
+        ↓
+Reusable processing logic
+        ↓
+Analytical engine
+        ↓
+Prediction / classification where applicable
+        ↓
+Interactive interface
+        ↓
+Reports
+        ↓
+Usable data product
+```
 
 ---
 
-# Key Learning Outcomes
+# What I Learned
 
-Through these projects, I have gained practical experience in:
+The internship helped me develop a stronger understanding of how different parts of a data project connect.
 
-- Writing structured Python programs
-- Designing reusable functions
-- Working with datasets
-- Cleaning and preprocessing data
-- Performing exploratory analysis
-- Aggregating and transforming data
-- Finding trends and patterns
-- Building meaningful visualizations
-- Creating interactive Plotly dashboards
-- Developing Streamlit applications
-- Applying machine learning concepts
-- Building NLP-based matching workflows
-- Designing rule-based scoring systems
-- Working with financial datasets
-- Processing structured and PDF-based documents
-- Generating analytical reports
-- Building upload-driven applications
-- Adding search and filtering
-- Turning analysis into usable interfaces
-- Documenting projects with GitHub
+I learned to:
+
+- Start with the structure of the data before writing analysis logic
+- Validate input instead of assuming it is clean
+- Separate processing from presentation
+- Use reusable functions instead of repeating logic
+- Choose visualizations based on the question being answered
+- Turn analytical results into meaningful insights
+- Build interfaces around actual workflows
+- Add search, filters, exports, and validation to make applications usable
+- Combine Python, analytics, ML, NLP, and visualization into complete projects
+- Document technical work clearly for GitHub
+
+---
+
+# Learning Progression
+
+```text
+FOUNDATIONS
+Python · Functions · Files · Data Structures
+              ↓
+DATA
+CSV · Cleaning · Aggregation · EDA
+              ↓
+VISUALIZATION
+Matplotlib · Seaborn · Plotly
+              ↓
+ANALYTICS
+Customers · Employees · Weather · Sales
+              ↓
+INTELLIGENCE
+Fraud · Risk · Time Series · Financial Analysis
+              ↓
+AI / NLP
+TF-IDF · Similarity · Resume Screening · Sentiment
+              ↓
+APPLICATIONS
+Streamlit · Search · Filters · Uploads · Reports
+              ↓
+DOCUMENT INTELLIGENCE
+PDF Extraction · Invoice Processing · Overdue Analysis
+```
+
+---
+
+# Key Outcomes
+
+By the end of the internship, I had worked across:
+
+| Area | Experience |
+|---|---|
+| Python | Programming, functions, files, reusable logic |
+| Data Analytics | Cleaning, aggregation, EDA, business analysis |
+| Visualization | Matplotlib, Seaborn, Plotly |
+| Machine Learning | Scoring, similarity, classification concepts |
+| NLP | TF-IDF, cosine similarity, sentiment |
+| Financial Analytics | Portfolio, expenses, budgets, invoices |
+| Document Processing | PDF extraction and structured records |
+| Application Development | Streamlit dashboards |
+| Reporting | CSV exports and analytical reports |
+| Development Workflow | Jupyter, VS Code, Git, GitHub |
 
 ---
 
 # About Me
 
-I am a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, with an interest in building practical software and data-driven applications.
+I am a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in building practical software and data-driven applications.
 
-### Areas of Interest
+### Areas I am interested in
 
 - Artificial Intelligence
 - Machine Learning
@@ -667,63 +801,38 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 - Data Visualization
 - Intelligent Applications
 
-I enjoy taking a problem from its raw data stage through analysis and logic, and turning it into something practical, understandable, and usable.
-
----
-
-# Internship Outcome
-
-The RFT Python Internship gave me an opportunity to work through a broad progression of practical problems — starting with Python fundamentals and gradually moving toward analytics systems, machine learning, NLP, financial analysis, document processing, and interactive applications.
-
-The result is a collection of projects that demonstrates not only individual technical concepts, but also my ability to connect them into complete workflows.
-
-### Current Progress
-
-**30 projects completed**
-
-```text
-Python
-  +
-Data Analytics
-  +
-Data Science
-  +
-Machine Learning
-  +
-NLP
-  +
-AI
-  +
-Streamlit
-  +
-Reporting
-  =
-Practical Project Portfolio
-```
+I enjoy taking an idea from raw data and initial logic to a complete solution that can be explored, understood, and used.
 
 ---
 
 # Connect With Me
 
-### LinkedIn
-
+**LinkedIn**  
 https://www.linkedin.com/in/shreya-verma-2b73b6290/
 
-### GitHub
-
+**GitHub**  
 https://github.com/Shreya934-bot
 
 ---
 
-## Final Note
+# Final Note
 
-This repository represents my progress as a **Python Developer and aspiring AI/ML professional** — from learning individual concepts to building complete, data-driven applications.
+This repository represents my **RFT Python Internship journey at GOW AI Academy** — from learning individual Python concepts to building complete analytics and intelligent applications.
 
-More importantly, it reflects an approach I want to continue beyond the internship:
+The most important progression for me has been:
 
-**learn → build → analyze → improve → ship**
+> **Learn the concept → understand the data → build the logic → analyze the result → create the interface → make it usable.**
+
+**30 projects. One continuous learning journey.**
 
 ---
 
-**Shreya Verma**  
-*Python Developer | AI & Machine Learning | Data & Analytics*
+<div align="center">
+
+### Shreya Verma
+
+**Python Developer · AI & Machine Learning · Data Analytics**
+
+*Built through practice. Improved through iteration.*
+
+</div>
