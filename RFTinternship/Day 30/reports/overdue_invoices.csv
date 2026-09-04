@@ -1,0 +1,4 @@
+Invoice Number,Customer Name,Customer Email,Invoice Date,Due Date,Items,Item Count,Calculated Total,Invoice Total,Source File,Source Type,Days Overdue,Payment Status
+INV-PDF-001,Acme Technologies,accounts@acme.example,2026-08-05,2026-08-20,Website Development; UI Design,2,57000.0,57000.0,sample_invoice_001.pdf,PDF,15,Overdue
+INV-PDF-002,Bright Retail,finance@bright.example,2026-08-12,2026-08-27,Analytics Dashboard; Data Analysis,2,42000.0,42000.0,sample_invoice_002.pdf,PDF,8,Overdue
+INV-PDF-003,Northstar Labs,billing@northstar.example,2026-08-22,2026-09-01,ML Consulting; Monthly Support,2,41000.0,41000.0,sample_invoice_003.pdf,PDF,3,Overdue

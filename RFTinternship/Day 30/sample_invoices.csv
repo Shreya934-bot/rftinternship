@@ -1,0 +1,8 @@
+Invoice Number,Customer Name,Customer Email,Invoice Date,Due Date,Item,Quantity,Unit Price,Amount,Tax
+INV-1001,Acme Technologies,accounts@acme.example,2026-05-05,2026-05-20,Website Development,1,45000,45000,0
+INV-1002,Bright Retail,finance@bright.example,2026-06-12,2026-06-27,Analytics Dashboard,1,28000,28000,0
+INV-1003,Northstar Labs,billing@northstar.example,2026-07-02,2026-07-17,Data Cleaning,1,18000,18000,0
+INV-1004,Acme Technologies,accounts@acme.example,2026-07-15,2026-08-01,Maintenance Support,2,7500,15000,0
+INV-1005,Vertex Media,payments@vertex.example,2026-08-04,2026-08-19,Social Media Analytics,1,22000,22000,0
+INV-1006,Bright Retail,finance@bright.example,2026-08-18,2026-09-02,Monthly Reporting,1,12500,12500,0
+INV-1007,Northstar Labs,billing@northstar.example,2026-08-22,2026-09-06,ML Consulting,1,35000,35000,0
